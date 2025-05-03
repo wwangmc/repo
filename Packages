@@ -304,7 +304,7 @@ Size: 10215790
 MD5sum: 60322f74b0e669a35c04e3d864241e1e
 SHA1: 5f55e3c714ee9e81bad34bebb279201490014bd6
 SHA256: 4482445297cce926faede628d911bfc99ec0de5fafcea94e569dc59f6c169341
-Section: Utilities
+Section: Filza
 Priority: optional
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
 Tag: purpose::uikit
