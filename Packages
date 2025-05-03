@@ -17,7 +17,7 @@ Name: mks
 
 Package: com.ghb.ios.gpt
 Version: 2.13-201
-Architecture: iphoneos-arm iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ghb
 Installed-Size: 5288
 Depends: mobilesubstrate
@@ -31,9 +31,24 @@ Description: An awesome application!
 Author: gpt
 Name: GPT
 
+Package: com.ghb.ios.gptuk
+Version: 2.12-188
+Architecture: iphoneos-arm
+Maintainer: ghb
+Installed-Size: 5460
+Filename: ./debs/2.12_uk_.deb
+Size: 1741486
+MD5sum: 4d8972197eabc7d911bbf8fc4a71f7e5
+SHA1: 8305f258a7ab1863b6c6266d9a1ebfd26074eaed
+SHA256: 5ac59c24bd8ddfe11e83dba1325b1859686218ebe68f4f3bca4e343c8231c36c
+Section: Utilities
+Description: An awesome application!
+Author: gpt
+Name: GPT_uk
+
 Package: com.ghb.ios.scan
 Version: 1.1
-Architecture: iphoneos-arm iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: ghb
 Filename: ./debs/二维码扫描.deb
 Size: 114102
@@ -44,4 +59,18 @@ Section: Utilities
 Description: An awesome application!
 Author: gpt
 Name: 二维码扫描
+
+Package: zorroapp.18.0.1
+Version: 18.0.1
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, gzip, ldid
+Filename: ./debs/zorroapp_18.deb
+Size: 17391388
+MD5sum: c8914f75e7176fc37888f3c3a7a376a8
+SHA1: e3c4d8c5ee0cd0b95460e23af72b6b0144f68e8b
+SHA256: 5a60856a95d2e0f714cae4493db8146655b1c51c9400352385bccd28e411e92a
+Section: [佐罗ZORRO iOS7-16]
+Author: zorroapp.cn
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: zorro全系備份_18.0.1「无根」
 
