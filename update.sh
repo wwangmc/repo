@@ -1,5 +1,5 @@
 #!/bin/bash
-dpkg-scanpackages -m ./debs > ./Packages && bzip2 -c9 Packages > Packages.bz2
+bzip2 -c9 Packages > Packages.bz2
 xz -c9 Packages > Packages.xz
 xz -5fkev --format=lzma Packages > Packages.lzma
 lz4 -c9 Packages > Packages.lz4
