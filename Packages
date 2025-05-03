@@ -1,0 +1,15 @@
+Package: com.ghb.ios.gptuk
+Version: 2.12-188
+Architecture: iphoneos-arm
+Maintainer: ghb
+Installed-Size: 5460
+Filename: ./debs/2.12_uk_.deb
+Size: 1741486
+MD5sum: 4d8972197eabc7d911bbf8fc4a71f7e5
+SHA1: 8305f258a7ab1863b6c6266d9a1ebfd26074eaed
+SHA256: 5ac59c24bd8ddfe11e83dba1325b1859686218ebe68f4f3bca4e343c8231c36c
+Section: Utilities
+Description: An awesome application!
+Author: gpt
+Name: GPT_uk
+
