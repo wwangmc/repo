@@ -375,8 +375,8 @@ Size: 1836860
 MD5sum: 3d4edb1c92cd8f160537198bb6949aec
 SHA1: 1aafb70c4f750cc4435c8950b8c8910ad2e7a1a9
 SHA256: fda00f61e288313234dadbcc0391264eedbd25a17968c778fbe86d2cb0114246
-Section: Utilities
-Description: An awesome application!
+Section: GPT
+Description: JK防越狱检测版gpt,慎用
 Author: gpt
 Name: GPT_uk
 
