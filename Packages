@@ -10,7 +10,7 @@ Size: 24316946
 MD5sum: e332744d4565d38cfea4653a514aa3f8
 SHA1: c1b9269ec453b39f24559980689379dec2f650c8
 SHA256: 5635a6af2454fe5f9cc157867db76f0bb4cea08ddbba5c5f6324fa3dbe3c5575
-Section: 未分类
+Section: 触动
 Author: touchsprite
 Icon: file:///Applications/TouchSprite.app/icon.png
 Name: 触动精灵专业版3.1.5-64位
@@ -168,7 +168,7 @@ SHA256: 232c5e793b4f7e84ce6e97330475f42f6103a97a1f8c4b01ec6db51c9682ff16
 Section: Applications
 Description: Helper utility to install and manage TrollStore!
 Author: opa334
-Name: TrollStore Helper
+Name: TrollStore Helper[rootless]
 
 Package: com.saurik.substrate.safemode
 Version: 0.9.6005
