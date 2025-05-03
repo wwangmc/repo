@@ -368,7 +368,7 @@ Name: Saily
 
 Package: com.wxhbts.sileo
 Version: 2.3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: Sileo Team
 Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
 Filename: ./debs/sileo.deb
@@ -376,7 +376,7 @@ Size: 1997712
 MD5sum: e2432f600c0e25d23d35aaa1070d7abc
 SHA1: 5f5092825cfcdcdbf5fa9d1d4318c11d6c4e6a93
 SHA256: 8a7902f63ff27154feb289b3585e4a582f836b1774cfe40487084be16fe59f72
-Section: 常用插件
+Section: 有根商店
 Priority: required
 Description: Sileo 越狱商店
 Author: Sileo Team
