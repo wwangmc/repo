@@ -1,4 +1,8 @@
 #!/bin/bash
-rm Packages; rm Packages.gz; rm Packages.bz2;
-dpkg-scanpackages debs /dev/null > Packages && tar zcvf Packages.gz Packages && bzip2 -k Packages Packages.bz2
-git add .
+dpkg-scanpackages -m ./debs > ./Packages && bzip2 -c9 Packages > Packages.bz2
+xz -c9 Packages > Packages.xz
+xz -5fkev --format=lzma Packages > Packages.lzma
+lz4 -c9 Packages > Packages.lz4
+gzip -c9 Packages > Packages.gz
+zstd -c19 Packages > Packages.zst && git add . 
+echo "生成成功！"
