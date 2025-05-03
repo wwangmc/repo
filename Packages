@@ -13,7 +13,7 @@ SHA256: 5635a6af2454fe5f9cc157867db76f0bb4cea08ddbba5c5f6324fa3dbe3c5575
 Section: 触动
 Author: touchsprite
 Icon: file:///Applications/TouchSprite.app/icon.png
-Name: 触动精灵专业版3.1.5-64位
+Name: 触动精灵破解版
 Sponsor: touchsprite
 
 Package: com.abcydia.afc2forios11
@@ -31,12 +31,11 @@ Size: 14430
 MD5sum: 0e7e83143b82eca1702bf76e540590a2
 SHA1: 096294a8682b982b0a975b95929b5292dff4d673
 SHA256: b55b57e7c46c5b80cd20ca9c962cb4525836acce78846c10a6532a8caf884dc3
-Section: System
+Section: 有根
 Description: 激活PC端 全路径访问权限
 Tag: purpose::daemon
 Author: Saurik, Cannathea
 Name: AFC2 iOS11~14 系统路径
-Sponsor: ABCydia <http://www.abcydia.com>
 
 Package: com.abcydia.flyjbx
 Version: 1.2.0
@@ -50,11 +49,10 @@ Size: 762146
 MD5sum: 46cac12ab6f6caf808222c06b36f50df
 SHA1: 2f2e84e4667c36725426cb22b8a6ee29400d47b7
 SHA256: e7926fc5692c4bb1c599267a4ebe984c7e9cf932eff8e3e4db1d6d3a83c8ef1a
-Section: Tweaks
+Section: 有根
 Description: 你可以隐藏你的越狱状态
 Author: XsF1re
 Name: FlyJB X 屏蔽越狱检测
-Sponsor: ABCydia <http://www.abcydia.com>
 
 Package: com.csmk.mks
 Version: 1-9+debug
@@ -67,7 +65,7 @@ Size: 67866
 MD5sum: 7eea49b8e98f501ad0605116c4667d24
 SHA1: bd3126e576771cb10e83987a4e024704cabf6d2e
 SHA256: fa97ab1ba5a90e740a5bf57784486977350dfdcff2041bb64264b6be61d0e46d
-Section: System
+Section: 无根
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
@@ -89,7 +87,7 @@ Size: 7442088
 MD5sum: dce90a30e8b20198762d81c5872ad1b3
 SHA1: 0f8c9ef6db614eb7f82caf7ff2b06cabf0233232
 SHA256: b37592166962f70a5b1bafc15848f229b4689bb60a9bbc61431b8be361193fd6
-Section: System
+Section: 有根
 Priority: optional
 Description: Substrate substitute for code substitution
 Author: comex <comexk+da@gmail.com>
@@ -106,7 +104,7 @@ Size: 2147406
 MD5sum: c16ee7a69514e362792083009c255cdc
 SHA1: f2f03e7c83ca449f2edbce9c5c93c53f0baf25a9
 SHA256: 36d8b2ade6eddeb5e067b86672a846a03430e90366ed6e24df7759c048a1bcf0
-Section: Utilities
+Section: 有根
 Description: An awesome application!
 Author: gpt
 Name: GPT
@@ -121,7 +119,7 @@ Size: 1741486
 MD5sum: 4d8972197eabc7d911bbf8fc4a71f7e5
 SHA1: 8305f258a7ab1863b6c6266d9a1ebfd26074eaed
 SHA256: 5ac59c24bd8ddfe11e83dba1325b1859686218ebe68f4f3bca4e343c8231c36c
-Section: Utilities
+Section: 有根
 Description: An awesome application!
 Author: gpt
 Name: GPT_uk
@@ -135,7 +133,7 @@ Size: 114102
 MD5sum: 0ac16f8a477a0509988cc0699f80954b
 SHA1: f66b8d53420ed526eb48405eebf187969cfe07fc
 SHA256: 1abf579cd629cb6f43ebf8b874fda1f4076b08d4ddcbebf07f96ae884464df18
-Section: Utilities
+Section: 有根
 Description: An awesome application!
 Author: gpt
 Name: 二维码扫描
@@ -150,7 +148,7 @@ Size: 1919700
 MD5sum: 5a7331f11ef360a3b1c77696ebbf001e
 SHA1: 34552e6cf05797db99365f1db881df14d53db9de
 SHA256: f283446a7b045cbedeeba6f009bd09b2711fd7ddeebfdfaf1002826e6d9e5294
-Section: Applications
+Section: 有根14+
 Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
@@ -165,7 +163,7 @@ Size: 1919638
 MD5sum: 73e14f01c4d3469e118e63e5f752feba
 SHA1: 9438cf3af05d46de6b60c44d9f899a723a55bf48
 SHA256: 232c5e793b4f7e84ce6e97330475f42f6103a97a1f8c4b01ec6db51c9682ff16
-Section: Applications
+Section: 无根
 Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper[rootless]
@@ -183,7 +181,7 @@ Size: 22736
 MD5sum: 73e56c9f8209fc56c8852bfcfd5b23d7
 SHA1: 8bb7866945dac32ad68648ebf38ca343fa715b7d
 SHA256: de3f3c5e0bfde32d61e14daaca7a7899a73215f94753a77fca1aa4203b018c87
-Section: Tweaks
+Section: 有根
 Priority: optional
 Description: safe mode safety extension (safe)
 Author: Jay Freeman (saurik) <saurik@saurik.com>
@@ -205,7 +203,7 @@ Size: 15198
 MD5sum: 9df300ef6a09aebe58258f2f0ad92051
 SHA1: 84c0e89f1764741996bc36c4f28276a1451f24c7
 SHA256: 96cdd5da748e255e0089c08d790015eb70fd24decb504717eb5882b4e30943f7
-Section: 必备插件
+Section: 有根15
 Description: 激活 PC端 所有路径访问权限
 Author: saurik, Cannathea
 Depiction: https://apt.wxhbts.com/view/9760
@@ -224,7 +222,7 @@ Size: 1218932
 MD5sum: 91d9e05676b018d6963f5ebabb726b1b
 SHA1: d8d8dd79090bb3796745f9eeb2532d39aecf13d3
 SHA256: e487772da403b33d0aed11bc122ca6c9bb2afa7411ae2b26d6135fb4fa551ce0
-Section: Tweaks
+Section: 有根
 Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
  使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
  更新日志：
@@ -250,7 +248,7 @@ Size: 1214288
 MD5sum: 6a26495efd27345686bc0f0735612816
 SHA1: aa0193b165813c338b83305aeaa9270e2965016c
 SHA256: d9c87cd5ce3b92e5b1b5c817587b34f7388e1c7e1ccc1659eb19443dd8d04614
-Section: Tweaks
+Section: 无根
 Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
  使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
  更新日志：
@@ -274,8 +272,66 @@ Size: 17391388
 MD5sum: c8914f75e7176fc37888f3c3a7a376a8
 SHA1: e3c4d8c5ee0cd0b95460e23af72b6b0144f68e8b
 SHA256: 5a60856a95d2e0f714cae4493db8146655b1c51c9400352385bccd28e411e92a
-Section: [佐罗ZORRO iOS7-16]
+Section: 无根
 Author: zorroapp.cn
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: zorro全系備份_18.0.1「无根」
+
+Package: com.wxhbts.afc2d-arm64.rootless
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: saurik, Cannathea
+Installed-Size: 172
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/AFC2_rootless.deb
+Size: 15102
+MD5sum: f1df7d63c050d82988509f1bdf55adb5
+SHA1: e1fc3f2261cd84157c54a1d43871b5e88f85d838
+SHA256: f56b25a2a82a9454532c27518bbb4b7411e59d47e8f104b7a145e385ddf2863a
+Section: 无根
+Description: 激活 PC端 所有路径访问权限
+Author: saurik, Cannathea
+Depiction: https://apt.wxhbts.com/view/9759
+Icon: https://apt.wxhbts.com/icon/%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.png
+Name: AFC2 系统文件访问-Rootless
+Sileodepiction: https://apt.wxhbts.com/sileo/9759
+
+Package: razerofficialb.rootless
+Version: 1.7.6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 8.0)
+Filename: ./debs/雷蛇.deb
+Size: 21303100
+MD5sum: 717b7cf10379dbf1d1ff979f5230c1ae
+SHA1: afd094ad388ebeaee3c4d517034fb56d96f05c82
+SHA256: 5a446e50cdc528370949ac5477adb08574adf72414d4f047d1df1ec27108661b
+Section: 无根
+Priority: optional
+Author: RazerOfficial
+Icon: icon.png
+Name: Razer雷蛇176-无根
+
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1726897475.c88adb3
+Architecture: iphoneos-arm64
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/saily.deb
+Size: 3351344
+MD5sum: 40fa4e1ada98fdc6a5e6607cf6d31918
+SHA1: 2e9922d6edb10366b30f3de32f318c758c34a6a7
+SHA256: 0bb5afe1229ba0913ecc6fcb324cfef8ae2ce0433f35ca780c7b1e95403315db
+Section: 无根
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily (Rootless)
+Website: https://sailyteam.github.io/Saily/index.html
 
