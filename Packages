@@ -17,7 +17,7 @@ Name: mks
 
 Package: com.ghb.ios.gpt
 Version: 2.13-201
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm iphoneos-arm64
 Maintainer: ghb
 Installed-Size: 5288
 Depends: mobilesubstrate
@@ -33,7 +33,7 @@ Name: GPT
 
 Package: com.ghb.ios.scan
 Version: 1.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm iphoneos-arm64
 Maintainer: ghb
 Filename: ./debs/二维码扫描.deb
 Size: 114102
