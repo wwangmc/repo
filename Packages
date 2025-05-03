@@ -1,3 +1,20 @@
+Package: com.csmk.mks
+Version: 1-9+debug
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 428
+Depends: sudo, mobilesubstrate
+Filename: ./debs/com.csmk.mks_rootless.deb
+Size: 67866
+MD5sum: 7eea49b8e98f501ad0605116c4667d24
+SHA1: bd3126e576771cb10e83987a4e024704cabf6d2e
+SHA256: fa97ab1ba5a90e740a5bf57784486977350dfdcff2041bb64264b6be61d0e46d
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
+
 Package: com.ghb.ios.gptuk
 Version: 2.12-188
 Architecture: iphoneos-arm
