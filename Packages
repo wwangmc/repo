@@ -347,7 +347,7 @@ SHA256: 2d75378cc747c855512c0f511cb487cfeb9aa2979173b86709225136fd5fafc5
 Section: 触动
 Author: lixin7295
 Icon: file:///Applications/mkrobot.app/AppIcon60x60@2x.png
-Name: robot
+Name: 十年授权小精灵
 Sponsor: lixin7295
 
 Package: wiki.qaq.chromatic
@@ -380,8 +380,5 @@ Section: 有根商店
 Priority: required
 Description: Sileo 越狱商店
 Author: Sileo Team
-Depiction: https://apt.wxhbts.com/view/7499
-Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
 Name: Sileo 越狱商店
-Sileodepiction: https://apt.wxhbts.com/sileo/7499
 
