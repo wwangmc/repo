@@ -31,3 +31,17 @@ Description: An awesome application!
 Author: gpt
 Name: GPT
 
+Package: com.ghb.ios.scan
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: ghb
+Filename: ./debs/二维码扫描.deb
+Size: 114102
+MD5sum: 0ac16f8a477a0509988cc0699f80954b
+SHA1: f66b8d53420ed526eb48405eebf187969cfe07fc
+SHA256: 1abf579cd629cb6f43ebf8b874fda1f4076b08d4ddcbebf07f96ae884464df18
+Section: Utilities
+Description: An awesome application!
+Author: gpt
+Name: 二维码扫描
+
