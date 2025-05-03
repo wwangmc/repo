@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-scanpackages -m ./debs > ./Packages
+dpkg-scanpackages -m ./debs > ./Packages_

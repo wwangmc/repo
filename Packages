@@ -104,7 +104,7 @@ Size: 2147406
 MD5sum: c16ee7a69514e362792083009c255cdc
 SHA1: f2f03e7c83ca449f2edbce9c5c93c53f0baf25a9
 SHA256: 36d8b2ade6eddeb5e067b86672a846a03430e90366ed6e24df7759c048a1bcf0
-Section: 有根
+Section: GPT
 Description: An awesome application!
 Author: gpt
 Name: GPT
@@ -119,10 +119,55 @@ Size: 1741486
 MD5sum: 4d8972197eabc7d911bbf8fc4a71f7e5
 SHA1: 8305f258a7ab1863b6c6266d9a1ebfd26074eaed
 SHA256: 5ac59c24bd8ddfe11e83dba1325b1859686218ebe68f4f3bca4e343c8231c36c
-Section: 有根
-Description: An awesome application!
+Section: GPT
+Description: 普通gpt
 Author: gpt
 Name: GPT_uk
+
+Package: com.ghb.ios.gptuk
+Version: 2.12-429
+Architecture: iphoneos-arm
+Maintainer: ghb
+Installed-Size: 5472
+Filename: ./debs/2.12_UK_jk.deb
+Size: 1740804
+MD5sum: 334c09cd40d2af1da6894d7c2080e1ca
+SHA1: 6dc792cc97b6efe437c65af2d569f91c25da5645
+SHA256: 521113a654a8cfec406977953296751e870a6b8d6a0ed98ee2464e6ef74588d2
+Section: GPT
+Description: jk防越狱检测版gpt
+Author: gpt
+Name: GPT_jk
+
+Package: com.ghb.ios.gptuk
+Version: 2.13-137+debug
+Architecture: iphoneos-arm
+Maintainer: ghb
+Installed-Size: 7884
+Filename: ./debs/com.ghb.ios.gptuk_2.13-137-x-mahjong.deb
+Size: 3024186
+MD5sum: e8934daf4dc9f14bdbcfaf2e13709ca5
+SHA1: 09a32366a210be6cc2d3301285dae884003a01e5
+SHA256: 05aaad9d4918045291cb51c49733b81c133a3051596336ee149b89b160dd9a3a
+Section: GPT
+Description: iphone_x gpt
+Author: gpt
+Name: GPT_x
+
+Package: com.ghb.ios.gptuk
+Version: 2.13-140
+Architecture: iphoneos-arm
+Maintainer: ghb
+Installed-Size: 6164
+Filename: ./debs/com.ghb.ios.gptuk_2.13-x-sudoku.deb
+Size: 2511734
+MD5sum: 29f8f4bdc06da8b6738dbcc8250d52d3
+SHA1: 5efb0d9e0dcdabb4fb9f920d2af9f8cd641f79e9
+SHA256: 613547ac67c6ae527cef5afae85ddf9a4935bdcf0641808aec721e44e809e9ce
+Section: GPT
+Description: iphone_x gpt
+Author: gpt
+Name: GPT_x_sudoku
 
 Package: com.ghb.ios.scan
 Version: 1.1
@@ -183,9 +228,8 @@ SHA1: 8bb7866945dac32ad68648ebf38ca343fa715b7d
 SHA256: de3f3c5e0bfde32d61e14daaca7a7899a73215f94753a77fca1aa4203b018c87
 Section: 有根
 Priority: optional
-Description: safe mode safety extension (safe)
+Description: sub依赖
 Author: Jay Freeman (saurik) <saurik@saurik.com>
-Depiction: http://cydia.saurik.com/info/com.saurik.substrate.safemode/
 Name: Substrate Safe Mode
 
 Package: com.wxhbts.afc2d-arm64
@@ -206,10 +250,7 @@ SHA256: 96cdd5da748e255e0089c08d790015eb70fd24decb504717eb5882b4e30943f7
 Section: 有根15
 Description: 激活 PC端 所有路径访问权限
 Author: saurik, Cannathea
-Depiction: https://apt.wxhbts.com/view/9760
-Icon: https://apt.wxhbts.com/icon/%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.png
 Name: Apple File Conduit 2 系统文件访问
-Sileodepiction: https://apt.wxhbts.com/sileo/9760
 
 Package: com.zxc.simpleremotecontrol
 Version: 0.1.5
@@ -223,17 +264,8 @@ MD5sum: 91d9e05676b018d6963f5ebabb726b1b
 SHA1: d8d8dd79090bb3796745f9eeb2532d39aecf13d3
 SHA256: e487772da403b33d0aed11bc122ca6c9bb2afa7411ae2b26d6135fb4fa551ce0
 Section: 有根
-Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
- 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
- 更新日志：
-   0.1.5：
-    1.增加清晰度
-   0.1.4：
-    1.修复bug
-   0.1.3：
-    1.布局重新修改
-    2.增加远控开关和远控密码
-    3.远控开关未打开情况下打开远控请输入密码，请提前设置好密码，请勿泄露
+Description: 一个简单的远程控制手机插件(仅支持ios13+)
+ 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口
 Author: zxc
 Name: iOS远控
 
@@ -249,17 +281,8 @@ MD5sum: 6a26495efd27345686bc0f0735612816
 SHA1: aa0193b165813c338b83305aeaa9270e2965016c
 SHA256: d9c87cd5ce3b92e5b1b5c817587b34f7388e1c7e1ccc1659eb19443dd8d04614
 Section: 无根
-Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
- 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
- 更新日志：
-   0.1.5：
-    1.增加清晰度
-   0.1.4：
-    1.修复bug
-   0.1.3：
-    1.布局重新修改
-    2.增加远控开关和远控密码
-    3.远控开关未打开情况下打开远控请输入密码，请提前设置好密码，请勿泄露
+Description: 一个简单的远程控制手机插件(仅支持ios13+)
+ 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口
 Author: zxc
 Name: iOS远控-rootless
 
@@ -295,10 +318,8 @@ SHA256: f56b25a2a82a9454532c27518bbb4b7411e59d47e8f104b7a145e385ddf2863a
 Section: 无根
 Description: 激活 PC端 所有路径访问权限
 Author: saurik, Cannathea
-Depiction: https://apt.wxhbts.com/view/9759
-Icon: https://apt.wxhbts.com/icon/%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.png
 Name: AFC2 系统文件访问-Rootless
-Sileodepiction: https://apt.wxhbts.com/sileo/9759
+
 
 Package: razerofficialb.rootless
 Version: 1.7.6
@@ -315,23 +336,76 @@ Author: RazerOfficial
 Icon: icon.png
 Name: Razer雷蛇176-无根
 
-Package: wiki.qaq.chromatic.rootless
-Version: 3.0-rootless-release-1726897475.c88adb3
+Package: com.tigisoftware.filza
+Version: 4.0.1-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 31815
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/filza.deb
+Size: 10215790
+MD5sum: 60322f74b0e669a35c04e3d864241e1e
+SHA1: 5f55e3c714ee9e81bad34bebb279201490014bd6
+SHA256: 4482445297cce926faede628d911bfc99ec0de5fafcea94e569dc59f6c169341
+Section: 有根
+Priority: optional
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit
+Author: TIGI Software <satashi2009@gmail.com>
+Dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+
+Package: com.tigisoftware.filza
+Version: 4.0.1-3
 Architecture: iphoneos-arm64
-Maintainer: Saily Team <support.0xa1@qaq.wiki>
-Pre-Depends: firmware (>= 13.0), dpkg, uikittools
-Conflicts: wiki.qaq.chromatic
-Filename: ./debs/saily.deb
-Size: 3351344
-MD5sum: 40fa4e1ada98fdc6a5e6607cf6d31918
-SHA1: 2e9922d6edb10366b30f3de32f318c758c34a6a7
-SHA256: 0bb5afe1229ba0913ecc6fcb324cfef8ae2ce0433f35ca780c7b1e95403315db
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 31822
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/filza_rootless.deb
+Size: 10216820
+MD5sum: 4812dc73e2ed0a0281b18e876d96edf1
+SHA1: 50f62b44b8a3804743ea9a136bf7542dfc07e43e
+SHA256: 918a39bd1cf0edefe1bb1a0fbb2253ad764a5633649a22c85ae3df7e33689586
 Section: 无根
-Homepage: https://sailyteam.github.io/Saily/index.html
+Priority: optional
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit
+Author: TIGI Software <satashi2009@gmail.com>
+Dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+
+Package: com.x5742230695d9a9.mkrobot.arm64
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: lixin7295
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/小精灵十年授权.deb
+Size: 9808138
+MD5sum: 570ed2f678e4bb90078fa7c63670ab6d
+SHA1: 3eb62e930b4c9d1154b9b4a0e51986e1298908bf
+SHA256: 2d75378cc747c855512c0f511cb487cfeb9aa2979173b86709225136fd5fafc5
+Section: 触动
+Author: lixin7295
+Icon: file:///Applications/mkrobot.app/AppIcon60x60@2x.png
+Name: robot
+Sponsor: lixin7295
+
+Package: wiki.qaq.chromatic
+Version: 2.1-REL-1654050540
+Architecture: iphoneos-arm
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
+Filename: ./debs/saily.deb
+Size: 3499976
+MD5sum: 7ef3bf44dea792655a40bcd1caa64391
+SHA1: 6455925611207215728004d7466c4b78bd0d059e
+SHA256: dfcd2e58b5acb2a66fb73fdfebce6d620ef7de5c26a6a12bf6ef59ad21bd451c
+Section: 有根商店
 Description: Modern. Fast. Beautiful.
 Author: Saily Team <support.0xa1@qaq.wiki>
-Depiction: https://sailyteam.github.io/Saily/index.html
-Icon: https://sailyteam.github.io/Saily/Resources/icon.png
-Name: Saily (Rootless)
-Website: https://sailyteam.github.io/Saily/index.html
+Name: Saily
 
