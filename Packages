@@ -105,54 +105,10 @@ MD5sum: c16ee7a69514e362792083009c255cdc
 SHA1: f2f03e7c83ca449f2edbce9c5c93c53f0baf25a9
 SHA256: 36d8b2ade6eddeb5e067b86672a846a03430e90366ed6e24df7759c048a1bcf0
 Section: GPT
-Description: An awesome application!
+Description: 普通GPT
 Author: gpt
 Name: GPT
 
-Package: com.ghb.ios.gptuk
-Version: 2.12-188
-Architecture: iphoneos-arm
-Maintainer: ghb
-Installed-Size: 5460
-Filename: ./debs/2.12_uk_.deb
-Size: 1741486
-MD5sum: 4d8972197eabc7d911bbf8fc4a71f7e5
-SHA1: 8305f258a7ab1863b6c6266d9a1ebfd26074eaed
-SHA256: 5ac59c24bd8ddfe11e83dba1325b1859686218ebe68f4f3bca4e343c8231c36c
-Section: GPT
-Description: 普通gpt
-Author: gpt
-Name: GPT_uk
-
-Package: com.ghb.ios.gptuk
-Version: 2.12-429
-Architecture: iphoneos-arm
-Maintainer: ghb
-Installed-Size: 5472
-Filename: ./debs/2.12_UK_jk.deb
-Size: 1740804
-MD5sum: 334c09cd40d2af1da6894d7c2080e1ca
-SHA1: 6dc792cc97b6efe437c65af2d569f91c25da5645
-SHA256: 521113a654a8cfec406977953296751e870a6b8d6a0ed98ee2464e6ef74588d2
-Section: GPT
-Description: jk防越狱检测版gpt
-Author: gpt
-Name: GPT_jk
-
-Package: com.ghb.ios.gptuk
-Version: 2.13-137+debug
-Architecture: iphoneos-arm
-Maintainer: ghb
-Installed-Size: 7884
-Filename: ./debs/com.ghb.ios.gptuk_2.13-137-x-mahjong.deb
-Size: 3024186
-MD5sum: e8934daf4dc9f14bdbcfaf2e13709ca5
-SHA1: 09a32366a210be6cc2d3301285dae884003a01e5
-SHA256: 05aaad9d4918045291cb51c49733b81c133a3051596336ee149b89b160dd9a3a
-Section: GPT
-Description: iphone_x gpt
-Author: gpt
-Name: GPT_x
 
 Package: com.ghb.ios.gptuk
 Version: 2.13-140
@@ -167,7 +123,7 @@ SHA256: 613547ac67c6ae527cef5afae85ddf9a4935bdcf0641808aec721e44e809e9ce
 Section: GPT
 Description: iphone_x gpt
 Author: gpt
-Name: GPT_x_sudoku
+Name: GPT_x
 
 Package: com.ghb.ios.scan
 Version: 1.1
@@ -408,4 +364,38 @@ Section: 有根商店
 Description: Modern. Fast. Beautiful.
 Author: Saily Team <support.0xa1@qaq.wiki>
 Name: Saily
+
+Package: com.ghb.ios.gptjk
+Version: 2.12-429
+Architecture: iphoneos-arm
+Maintainer: ghb
+Installed-Size: 5472
+Filename: ./debs/GPT_JK.deb
+Size: 1836860
+MD5sum: 3d4edb1c92cd8f160537198bb6949aec
+SHA1: 1aafb70c4f750cc4435c8950b8c8910ad2e7a1a9
+SHA256: fda00f61e288313234dadbcc0391264eedbd25a17968c778fbe86d2cb0114246
+Section: Utilities
+Description: An awesome application!
+Author: gpt
+Name: GPT_uk
+
+Package: com.wxhbts.sileo
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Sileo Team
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Filename: ./debs/sileo.deb
+Size: 1997712
+MD5sum: e2432f600c0e25d23d35aaa1070d7abc
+SHA1: 5f5092825cfcdcdbf5fa9d1d4318c11d6c4e6a93
+SHA256: 8a7902f63ff27154feb289b3585e4a582f836b1774cfe40487084be16fe59f72
+Section: 常用插件
+Priority: required
+Description: Sileo 越狱商店
+Author: Sileo Team
+Depiction: https://apt.wxhbts.com/view/7499
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: Sileo 越狱商店
+Sileodepiction: https://apt.wxhbts.com/sileo/7499
 
