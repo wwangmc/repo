@@ -15,6 +15,22 @@ Tag: role::hacker
 Author: ww
 Name: mks
 
+Package: com.ghb.ios.gpt
+Version: 2.13-201
+Architecture: iphoneos-arm
+Maintainer: ghb
+Installed-Size: 5288
+Depends: mobilesubstrate
+Filename: ./debs/2.13.deb
+Size: 2147406
+MD5sum: c16ee7a69514e362792083009c255cdc
+SHA1: f2f03e7c83ca449f2edbce9c5c93c53f0baf25a9
+SHA256: 36d8b2ade6eddeb5e067b86672a846a03430e90366ed6e24df7759c048a1bcf0
+Section: Utilities
+Description: An awesome application!
+Author: gpt
+Name: GPT
+
 Package: com.ghb.ios.gptuk
 Version: 2.13-140
 Architecture: iphoneos-arm
