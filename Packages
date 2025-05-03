@@ -352,7 +352,7 @@ Sponsor: lixin7295
 
 Package: wiki.qaq.chromatic
 Version: 2.1-REL-1654050540
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: Saily Team <support.0xa1@qaq.wiki>
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
 Filename: ./debs/saily.deb
