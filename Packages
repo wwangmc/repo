@@ -147,7 +147,7 @@ Installed-Size: 144
 Depends: mobilesubstrate (>= 0.9.3367+38)
 Conflicts: safe-mode-fixer-ios7
 Replaces: safe-mode-fixer-ios7
-Filename: ./debs/com.saurik.substrate.safemode_0.9.6005_iphoneos-arm.deb
+Filename: ./debs/com.saurik.substrate.safemode-arm.deb
 Size: 22736
 MD5sum: 73e56c9f8209fc56c8852bfcfd5b23d7
 SHA1: 8bb7866945dac32ad68648ebf38ca343fa715b7d
