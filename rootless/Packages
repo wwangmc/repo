@@ -87,8 +87,8 @@ MD5sum: 6a26495efd27345686bc0f0735612816
 SHA1: aa0193b165813c338b83305aeaa9270e2965016c
 SHA256: d9c87cd5ce3b92e5b1b5c817587b34f7388e1c7e1ccc1659eb19443dd8d04614
 Section: 远程控制
-Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
- 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
+Description: 一个简单的远程控制手机插
+ 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口
 Author: zxc
 Name: iOS远控-rootless
 
@@ -120,4 +120,19 @@ Section: [佐罗ZORRO iOS7-16]
 Author: zorroapp.cn
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: zorro全系備份_18.0.1「无根」
+
+Package: com.csmk.ios16rootless
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: w
+Installed-Size: 4
+Depends: TrollStore Helper,AFC2 系统文件访问-Rootless
+Filename: ./debs/com.csmk.ios16rootless_0.0.1-2+debug_iphoneos-arm.deb
+Size: 634
+MD5sum: 8e60c71939d9351091af7826236baefd
+SHA1: b92a3e3836ca5bde4eb6b0fbb5410573c81be8f4
+SHA256: 6e16864aa679ea63c23a71f4ff376ce605ccbb6651ba3407d9bccb413ea6fed6
+Description: A blank slate!
+Author: w
+Name: ios16_rootless
 
