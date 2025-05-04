@@ -122,16 +122,16 @@ Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: zorro全系備份_18.0.1「无根」
 
 Package: com.csmk.ios16rootless
-Version: 0.0.1-3+debug
+Version: 0.0.1-4+debug
 Architecture: iphoneos-arm64
 Maintainer: w
 Installed-Size: 4
-Depends: TrollStore Helper,AFC2 系统文件访问-Rootless
-Filename: ./debs/com.csmk.ios16rootless_0.0.1-3+debug_iphoneos-arm64.deb
-Size: 636
-MD5sum: a0622691a26014161558a22a5fd0f9b2
-SHA1: e74b3ae285e577a4fe6909794b57ce9782cd2968
-SHA256: fcbd86898ddf85c0e33f34b55aeccef049f2916a16bcbddbae1a563e96c7cd71
+Depends: com.opa334.trollstorehelper,com.wxhbts.afc2d-arm64.rootless
+Filename: ./debs/com.csmk.ios16rootless_0.0.1-4+debug_iphoneos-arm64.deb
+Size: 610
+MD5sum: dafc878c08f0109c64c3dd44971d894a
+SHA1: 984c564b5f21fd82abe94870900011d8ed9fb1e6
+SHA256: e63ac76c1034fed88c4efe1819eecfa4695aa35beefeeebc0307938e4e806342
 Description: A blank slate!
 Author: w
 Name: ios16_rootless
