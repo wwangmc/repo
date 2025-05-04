@@ -125,7 +125,7 @@ Name: zorro全系備份_18.0.1「无根」
 Package: com.csmk.installrootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
-Depends: com.wxhbts.afc2d-arm64.rootless, com.opa334.trollstorehelper,com.csmk.mks,com.tigisoftware.filza,ellkit
+Depends: com.wxhbts.afc2d-arm64.rootless, com.opa334.trollstorehelper,com.csmk.mks,com.tigisoftware.filza,ellekit
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.installrootless_arm64.deb
@@ -136,4 +136,22 @@ SHA256: f3fe292f49e5085a737a1ad67c6110bbfd99f7de60ea78753410a2b2fa8414a8
 Description: A blank slate!
 Author: w
 Name: installRootless
+
+Package: ellekit
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_1.1.3_iphoneos-arm64.deb
+Size: 352628
+MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
+SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
+SHA256: b6fa34a45629f1eba602678d3322ad06d077b52e015223f99a989883652b277b
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+Author: Evelyn
+Name: ElleKit
 
