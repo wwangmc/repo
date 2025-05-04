@@ -406,16 +406,15 @@ Package: com.csmk.ios15install
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: w
-Installed-Size: 4
+Installed-Size: 12
 Filename: ./debs/com.csmk.ios15install.deb
-Pre-Depends: com.wxhbts.afc2d-arm64,com.ghb.ios.gptuk,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,com.saurik.substrate.safemode,com.ex.substitute
-Size: 568
-MD5sum: f7b3243cee9b0c7702361ac4508e8684
-SHA1: 746b369f55ba7d81722afecc63f613977b693b2b
-SHA256: ef5998909c6c63e81fbb2e3163c4d471e1dbe6400992cab56003c66b094c1fa8
+Pre-Depends: com.wxhbts.afc2d-arm64,com.ghb.ios.gpt,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,com.saurik.substrate.safemode,com.ex.substitute
+Size: 636
+MD5sum: 56f72b84b2952314ff9251b00895b5b8
+SHA1: 25538e60d30b4d7f3eea53a4f6948395852c577c
+SHA256: 547f645c42576987d9433b6dc035002a62ee634c24823a4147b0b44fc133786c
 Section: 一键装机
 Multi-Arch: foreign
 Description: ios15一键装机
 Author: w
 Name: ios15Install
-
