@@ -252,7 +252,7 @@ Package: com.csmk.ceinstall
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: w
-Depends: com.abcydia.afc2forios11,com.tigisoftware.filza,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan
+Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan
 Installed-Size: 4
 Filename: ./debs/com.csmk.ceinstall-arm64.deb
 Size: 562
@@ -269,7 +269,7 @@ Package: com.csmk.uoinstall
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: w
-Depends: com.abcydia.afc2forios11,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan
+Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan
 Installed-Size: 4
 Filename: ./debs/com.csmk.uoinstall-arm64.deb
 Size: 562
@@ -356,7 +356,7 @@ Size: 562
 MD5sum: f30aaf9d79e6fba9997f49db7e1a63df
 SHA1: cb278dc50f4801e10b7147649019fb0195bada4c
 SHA256: 6056ef62a199b11a836805d9d8a2b1b232b1178d951075ec5a1d33d58ea56721
-Depends: com.wxhbts.afc2d-arm64,com.ghb.ios.gptuk,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,ellekit
+Depends: com.wxhbts.afc2d-arm64,zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gptuk,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,ellekit
 Section: 一键装机
 Multi-Arch: foreign
 Description: ios16有根越狱一键装机
