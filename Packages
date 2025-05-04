@@ -313,3 +313,67 @@ Description: uo一键装机
 Author: w
 Name: uoInstall
 
+Package: p7zip
+Version: 16.02-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 9080
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/p7zip_16.02-1_iphoneos-arm.deb
+Size: 930130
+MD5sum: 6661ea346cd9f07b626384869fbab414
+SHA1: 1f1bd63961328c1a33096abaacdf1f8ca7934eb8
+SHA256: cda97749c51a46b56f41276b792496492e5dc9f1fed3efed2963f121ceff99af
+Section: Archiving
+Priority: optional
+Multi-Arch: foreign
+Description: claims to be a good compressor
+Name: 7-zip (POSIX)
+
+Package: unrar
+Version: 5.6.4-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 736
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/unrar_5.6.4-1_iphoneos-arm.deb
+Size: 118130
+MD5sum: 3ec416b41c2fa800cd2cbd957213cdbf
+SHA1: b1be3febc8b517410eef1ca2f29869d28c857c00
+SHA256: 7e9dacd328519d4e9a0c0a0940213621530ae5f7677c1327de00952425e51858
+Section: Archiving
+Priority: optional
+Multi-Arch: foreign
+Description: de-compresses files in rar format
+
+Package: unzip
+Version: 6.0+deb9u1-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 808
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/unzip_6.0+deb9u1-1_iphoneos-arm.deb
+Size: 90196
+MD5sum: 75f0c28bdfd5dd04c1f5d48ba9f8860f
+SHA1: 6fc3212fd33d1ce912f4e7fb810c6be38594149c
+SHA256: 3ad2e6282193a521dba00c8f79c80661cf4f96064f1ba75e56ba80e7ee512766
+Section: Archiving
+Priority: important
+Description: de-compesses files in zip format
+
+Package: zip
+Version: 2.32-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 728
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/zip_2.32-1_iphoneos-arm.deb
+Size: 52214
+MD5sum: b1cef31bfb417f23e93861159176af0b
+SHA1: 32ea892c1964f8f6893b0d157b5497aab3769588
+SHA256: 55b500e5750a7fe9395f8571749c0e04a90111b271832e552b6a3cf64324393c
+Section: Archiving
+Priority: important
+Multi-Arch: foreign
+Description: standard Windows compression tool
+
