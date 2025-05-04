@@ -280,6 +280,7 @@ MD5sum: 7a230e5adb4f6cff30718267789e320a
 SHA1: 729ce395a22ab9d3819b1c2f7a596635be1c9242
 SHA256: 8223581ff78799484c101277aa646b40bebc0af7ea714dbfc866806bdc27ca09
 Section: 一键装机
+Multi-Arch: foreign
 Description: ios15一键装机
 Author: w
 Name: ios15Install
@@ -296,6 +297,7 @@ MD5sum: aa822a9d9cf08d0933aec3daea1f2069
 SHA1: bc46bfbccc6c58ce0f8f32ecb009704d044d2051
 SHA256: 84b36bc149edba624dde6be4fb0386973703e78e8dfb303067b520c168561152
 Section: 一键装机
+Multi-Arch: foreign
 Description: ce灯塔一键装机
 Author: w
 Name: ceInstall
@@ -312,6 +314,7 @@ MD5sum: 0f7057426c0b3b58f781ce2d2bcc7627
 SHA1: 0f6197219c9f2f7436299d1f83285b3b0237c7ce
 SHA256: de7af932613471ccc6b17f79416c45b7422a539af345f7e1609daa628c75a781
 Section: 一键装机
+Multi-Arch: foreign
 Description: uo一键装机
 Author: w
 Name: uoInstall
