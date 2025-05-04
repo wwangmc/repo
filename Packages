@@ -270,7 +270,7 @@ Name: Sileo 越狱商店
 
 Package: com.csmk.ios15install
 Version: 0.0.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm iphoneos-arm64
 Maintainer: w
 Depends: com.wxhbts.afc2d-arm64,com.ghb.ios.gpt,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.x5742230695d9a9.mkrobot.arm64
 Installed-Size: 4
