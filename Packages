@@ -253,7 +253,7 @@ Architecture: iphoneos-arm
 Maintainer: w
 Depends: com.wxhbts.afc2d-arm64,com.ghb.ios.gpt,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.x5742230695d9a9.mkrobot.arm64
 Installed-Size: 4
-Filename: ./debs/com.csmk.ios15install-arm64.deb
+Filename: ./debs/com.csmk.ios15install.deb
 Size: 564
 MD5sum: 7a230e5adb4f6cff30718267789e320a
 SHA1: 729ce395a22ab9d3819b1c2f7a596635be1c9242
