@@ -195,13 +195,13 @@ Description: 一个简单的远程控制手机插件(仅支持ios13+)
 Author: zxc
 Name: iOS远控
 
-
+ 
 Package: com.tigisoftware.filza
 Version: 4.0.1-3
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 31815
-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Pre-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
 Filename: ./debs/filza.deb
 Size: 10215790
@@ -382,4 +382,38 @@ Section: Archiving
 Priority: important
 Multi-Arch: foreign
 Description: standard Windows compression tool
+
+Package: com.csmk.ios16install
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: w
+Installed-Size: 4
+Filename: ./debs/com.csmk.ios16install-arm.deb
+Size: 562
+MD5sum: f30aaf9d79e6fba9997f49db7e1a63df
+SHA1: cb278dc50f4801e10b7147649019fb0195bada4c
+SHA256: 6056ef62a199b11a836805d9d8a2b1b232b1178d951075ec5a1d33d58ea56721
+Depends: com.wxhbts.afc2d-arm64,com.ghb.ios.gptuk,com.tigisoftware.filza,,com.x5742230695d9a9.mkrobot.arm64,ellekit
+Multi-Arch: foreign
+Description: ios16有根越狱一键装机
+Author: w
+Name: ios16Install
+
+Package: ellekit
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_1.1.3_iphoneos-arm64.deb
+Size: 352628
+MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
+SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
+SHA256: b6fa34a45629f1eba602678d3322ad06d077b52e015223f99a989883652b277b
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+Author: Evelyn
+Name: ElleKit
 
