@@ -70,10 +70,8 @@ SHA256: f56b25a2a82a9454532c27518bbb4b7411e59d47e8f104b7a145e385ddf2863a
 Section: afc
 Description: 激活 PC端 所有路径访问权限
 Author: saurik, Cannathea
-Depiction: https://apt.wxhbts.com/view/9759
-Icon: https://apt.wxhbts.com/icon/%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.png
 Name: AFC2 系统文件访问-Rootless
-Sileodepiction: https://apt.wxhbts.com/sileo/9759
+
 
 Package: com.zxc.simpleremotecontrol-rootless
 Version: 0.1.5
@@ -125,7 +123,7 @@ Name: zorro全系備份_18.0.1「无根」
 Package: com.csmk.installrootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
-Depends: com.wxhbts.afc2d-arm64.rootless, com.opa334.trollstorehelper,com.csmk.mks,com.tigisoftware.filza,ellekit
+Depends: ldid,com.wxhbts.afc2d-arm64.rootless, com.csmk.mks,com.tigisoftware.filza,ellekit
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.installrootless_arm64.deb
