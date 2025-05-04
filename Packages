@@ -247,22 +247,6 @@ Author: Sileo Team
 Name: Sileo 越狱商店
 
 
-Package: com.csmk.ios15install
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: w
-Depends: com.wxhbts.afc2d-arm64,com.ghb.ios.gpt,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.x5742230695d9a9.mkrobot.arm64
-Installed-Size: 4
-Filename: ./debs/com.csmk.ios15install.deb
-Size: 564
-MD5sum: 7a230e5adb4f6cff30718267789e320a
-SHA1: 729ce395a22ab9d3819b1c2f7a596635be1c9242
-SHA256: 8223581ff78799484c101277aa646b40bebc0af7ea714dbfc866806bdc27ca09
-Section: 一键装机
-Multi-Arch: foreign
-Description: ios15一键装机
-Author: w
-Name: ios15Install
 
 Package: com.csmk.ceinstall
 Version: 0.0.1
@@ -417,4 +401,20 @@ Author: TIGI Software <satashi2009@gmail.com>
 Dev: satashi2009
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Name: Filza File Manager
+
+Package: com.csmk.ios15install
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: w
+Installed-Size: 4
+Filename: ./debs/com.csmk.ios15install.deb
+Size: 568
+MD5sum: f7b3243cee9b0c7702361ac4508e8684
+SHA1: 746b369f55ba7d81722afecc63f613977b693b2b
+SHA256: ef5998909c6c63e81fbb2e3163c4d471e1dbe6400992cab56003c66b094c1fa8
+Section: 一键装机
+Multi-Arch: foreign
+Description: ios15一键装机
+Author: w
+Name: ios15Install
 
