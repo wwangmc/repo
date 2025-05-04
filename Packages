@@ -267,3 +267,49 @@ Description: Sileo 越狱商店
 Author: Sileo Team
 Name: Sileo 越狱商店
 
+
+Package: com.csmk.ios15install
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: w
+Depends: com.wxhbts.afc2d-arm64,com.ghb.ios.gpt,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.x5742230695d9a9.mkrobot.arm64
+Installed-Size: 4
+Filename: ./debs/com.csmk.ios15install-arm64.deb
+Size: 564
+MD5sum: 7a230e5adb4f6cff30718267789e320a
+SHA1: 729ce395a22ab9d3819b1c2f7a596635be1c9242
+SHA256: 8223581ff78799484c101277aa646b40bebc0af7ea714dbfc866806bdc27ca09
+Description: ios15一键装机
+Author: w
+Name: ios15Install
+
+Package: com.csmk.ceinstall
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: w
+Depends: com.abcydia.afc2forios11,com.tigisoftware.filza,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan
+Installed-Size: 4
+Filename: ./debs/com.csmk.ceinstall-arm64.deb
+Size: 562
+MD5sum: aa822a9d9cf08d0933aec3daea1f2069
+SHA1: bc46bfbccc6c58ce0f8f32ecb009704d044d2051
+SHA256: 84b36bc149edba624dde6be4fb0386973703e78e8dfb303067b520c168561152
+Description: ce灯塔一键装机
+Author: w
+Name: ceInstall
+
+Package: com.csmk.uoinstall
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: w
+Depends: com.abcydia.afc2forios11,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan
+Installed-Size: 4
+Filename: ./debs/com.csmk.uoinstall-arm64.deb
+Size: 562
+MD5sum: 0f7057426c0b3b58f781ce2d2bcc7627
+SHA1: 0f6197219c9f2f7436299d1f83285b3b0237c7ce
+SHA256: de7af932613471ccc6b17f79416c45b7422a539af345f7e1609daa628c75a781
+Description: uo一键装机
+Author: w
+Name: uoInstall
+

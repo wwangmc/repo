@@ -123,7 +123,7 @@ Name: zorro全系備份_18.0.1「无根」
 Package: com.csmk.installrootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
-Depends: ldid,com.wxhbts.afc2d-arm64.rootless, com.csmk.mks,com.tigisoftware.filza,ellekit
+Depends: ldid,com.wxhbts.afc2d-arm64.rootless, com.csmk.mks,com.tigisoftware.filza,ellekit,com.csmk.mks
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.installrootless_arm64.deb
@@ -131,6 +131,7 @@ Size: 568
 MD5sum: f8180e64413cff02461b1b6335f94e94
 SHA1: 3b4c417d79813c91485af9b80d40269a9a77b37e
 SHA256: f3fe292f49e5085a737a1ad67c6110bbfd99f7de60ea78753410a2b2fa8414a8
+Section: 一键装机
 Description: A blank slate!
 Author: w
 Name: installRootless
