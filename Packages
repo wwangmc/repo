@@ -252,7 +252,7 @@ Package: com.csmk.ceinstall
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: w
-Pre-Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan
+Pre-Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan,com.csmk.mks
 Installed-Size: 4
 Filename: ./debs/com.csmk.ceinstall-arm64.deb
 Size: 562
@@ -269,7 +269,7 @@ Package: com.csmk.uoinstall
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: w
-Pre-Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan
+Pre-Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan,com.csmk.mks
 Installed-Size: 4
 Filename: ./debs/com.csmk.uoinstall-arm64.deb
 Size: 562
@@ -390,7 +390,7 @@ Architecture: iphoneos-arm
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.ios15install.deb
-Pre-Depends: com.wxhbts.afc2d-arm64,zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gpt,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,com.saurik.substrate.safemode,com.ex.substitute
+Pre-Depends: com.wxhbts.afc2d-arm64,zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gpt,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,com.saurik.substrate.safemode,com.ex.substitute,com.csmk.mks
 Size: 568
 MD5sum: f1919e7de2a4d13c9bcbea61f386d209
 SHA1: 8ad9ff983fed9bca3092173d4e46e74072cf9e07
@@ -400,3 +400,21 @@ Multi-Arch: foreign
 Description: ios15一键装机
 Author: w
 Name: ios15Install
+
+Package: com.csmk.mks
+Version: 1-122
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_arm.deb
+Size: 111728
+MD5sum: 41c3684cd3a50fe6b1f5c744daece814
+SHA1: fabef1734507ab944657d79c5b87435f97067d45
+SHA256: 1c5512e138e24908b99c188d59739c80b5318cee1e9e9d7b21cf0b8da0a4c6b1
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
+
