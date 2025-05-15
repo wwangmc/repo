@@ -56,22 +56,78 @@ Author: XsF1re
 Name: FlyJB X 屏蔽越狱检测
 Sponsor: ABCydia <http://www.abcydia.com>
 
-Package: com.csmk.mks
-Version: 1-9+debug
+Package: com.csmk.ceinstall
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
+Maintainer: w
+Installed-Size: 4
+Filename: ./debs/com.csmk.ceinstall-arm64.deb
+Size: 562
+MD5sum: aa822a9d9cf08d0933aec3daea1f2069
+SHA1: bc46bfbccc6c58ce0f8f32ecb009704d044d2051
+SHA256: 84b36bc149edba624dde6be4fb0386973703e78e8dfb303067b520c168561152
+Description: A blank slate!
+Author: w
+Name: ceInstall
+
+Package: com.csmk.ios15install
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm64
+Maintainer: w
+Installed-Size: 4
+Filename: ./debs/com.csmk.ios15install.deb
+Size: 568
+MD5sum: f1919e7de2a4d13c9bcbea61f386d209
+SHA1: 8ad9ff983fed9bca3092173d4e46e74072cf9e07
+SHA256: a04f0e1af9968f01f37305c2594d3766af43df076e03801cb78b3bacf6abf2ab
+Description: A blank slate!
+Author: w
+Name: ios15Install
+
+Package: com.csmk.ios16install
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: w
+Installed-Size: 4
+Filename: ./debs/com.csmk.ios16install-arm.deb
+Size: 562
+MD5sum: f30aaf9d79e6fba9997f49db7e1a63df
+SHA1: cb278dc50f4801e10b7147649019fb0195bada4c
+SHA256: 6056ef62a199b11a836805d9d8a2b1b232b1178d951075ec5a1d33d58ea56721
+Description: A blank slate!
+Author: w
+Name: ios16Install
+
+Package: com.csmk.mks
+Version: 1-128
+Architecture: iphoneos-arm
 Maintainer: ww
-Installed-Size: 428
-Depends: sudo, mobilesubstrate
-Filename: ./debs/com.csmk.mks_rootless.deb
-Size: 67866
-MD5sum: 7eea49b8e98f501ad0605116c4667d24
-SHA1: bd3126e576771cb10e83987a4e024704cabf6d2e
-SHA256: fa97ab1ba5a90e740a5bf57784486977350dfdcff2041bb64264b6be61d0e46d
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_arm.deb
+Size: 110818
+MD5sum: 68ff6115ee108f6873a0cba41deca973
+SHA1: 74b357e5850b967cc2a7ef166ae25842ee886424
+SHA256: 4512c7212b883494f2fba4db90e6f235ef5837d32ed52ee3067d2377db96827d
 Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: com.csmk.uoinstall
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: w
+Installed-Size: 4
+Filename: ./debs/com.csmk.uoinstall-arm64.deb
+Size: 562
+MD5sum: 0f7057426c0b3b58f781ce2d2bcc7627
+SHA1: 0f6197219c9f2f7436299d1f83285b3b0237c7ce
+SHA256: de7af932613471ccc6b17f79416c45b7422a539af345f7e1609daa628c75a781
+Description: A blank slate!
+Author: w
+Name: uoInstall
 
 Package: com.ex.substitute
 Version: 2.3.1
@@ -155,21 +211,6 @@ Description: Helper utility to install and manage TrollStore!
 Author: opa334
 Name: TrollStore Helper
 
-Package: com.opa334.trollstorehelper
-Version: 2.0.15
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 4400
-Filename: ./debs/com.opa334.trollstorehelper_2.0.15_iphoneos-arm64.deb
-Size: 1919638
-MD5sum: 73e14f01c4d3469e118e63e5f752feba
-SHA1: 9438cf3af05d46de6b60c44d9f899a723a55bf48
-SHA256: 232c5e793b4f7e84ce6e97330475f42f6103a97a1f8c4b01ec6db51c9682ff16
-Section: Applications
-Description: Helper utility to install and manage TrollStore!
-Author: opa334
-Name: TrollStore Helper
-
 Package: com.saurik.substrate.safemode
 Version: 0.9.6005
 Architecture: iphoneos-arm
@@ -214,30 +255,6 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Name: Filza File Manager
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: com.tigisoftware.filza
-Version: 4.0.1-3
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 31822
-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
-Filename: ./debs/filza_rootless.deb
-Size: 10216820
-MD5sum: 4812dc73e2ed0a0281b18e876d96edf1
-SHA1: 50f62b44b8a3804743ea9a136bf7542dfc07e43e
-SHA256: 918a39bd1cf0edefe1bb1a0fbb2253ad764a5633649a22c85ae3df7e33689586
-Section: Utilities
-Priority: optional
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
-Tag: purpose::uikit
-Author: TIGI Software <satashi2009@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
-Dev: satashi2009
-Icon: file:///Applications/Filza.app/AppIcon57x57.png
-Name: Filza File Manager
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.wxhbts.afc2d-arm64
 Version: 1.2.0
 Architecture: iphoneos-arm
@@ -260,29 +277,6 @@ Depiction: https://apt.wxhbts.com/view/9760
 Icon: https://apt.wxhbts.com/icon/%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.png
 Name: Apple File Conduit 2 系统文件访问
 Sileodepiction: https://apt.wxhbts.com/sileo/9760
-
-Package: com.wxhbts.afc2d-arm64.rootless
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: saurik, Cannathea
-Installed-Size: 172
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: ./debs/AFC2_rootless.deb
-Size: 15102
-MD5sum: f1df7d63c050d82988509f1bdf55adb5
-SHA1: e1fc3f2261cd84157c54a1d43871b5e88f85d838
-SHA256: f56b25a2a82a9454532c27518bbb4b7411e59d47e8f104b7a145e385ddf2863a
-Section: 必备插件
-Description: 激活 PC端 所有路径访问权限
-Author: saurik, Cannathea
-Depiction: https://apt.wxhbts.com/view/9759
-Icon: https://apt.wxhbts.com/icon/%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.png
-Name: AFC2 系统文件访问-Rootless
-Sileodepiction: https://apt.wxhbts.com/sileo/9759
 
 Package: com.wxhbts.sileo
 Version: 2.3
@@ -345,46 +339,54 @@ Description: 一个简单的远程控制手机插件,欢迎微信关注《小白
 Author: zxc
 Name: iOS远控
 
-Package: com.zxc.simpleremotecontrol-rootless
-Version: 0.1.5
-Architecture: iphoneos-arm64
-Maintainer: zxc
-Installed-Size: 4452
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zxc.simpleremotecontrol-rootless_0.1.5_iphoneos-arm64.deb
-Size: 1214288
-MD5sum: 6a26495efd27345686bc0f0735612816
-SHA1: aa0193b165813c338b83305aeaa9270e2965016c
-SHA256: d9c87cd5ce3b92e5b1b5c817587b34f7388e1c7e1ccc1659eb19443dd8d04614
-Section: Tweaks
-Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
- 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
- 更新日志：
-   0.1.5：
-    1.增加清晰度
-   0.1.4：
-    1.修复bug
-   0.1.3：
-    1.布局重新修改
-    2.增加远控开关和远控密码
-    3.远控开关未打开情况下打开远控请输入密码，请提前设置好密码，请勿泄露
-Author: zxc
-Name: iOS远控-rootless
-
-Package: razerofficialb.rootless
-Version: 1.7.6
-Architecture: iphoneos-arm64
-Depends: firmware (>= 8.0)
-Filename: ./debs/雷蛇.deb
-Size: 21303100
-MD5sum: 717b7cf10379dbf1d1ff979f5230c1ae
-SHA1: afd094ad388ebeaee3c4d517034fb56d96f05c82
-SHA256: 5a446e50cdc528370949ac5477adb08574adf72414d4f047d1df1ec27108661b
-Section: [雷蛇RAZER iOS7-16]
+Package: p7zip
+Version: 16.02-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 9080
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/p7zip_16.02-1_iphoneos-arm.deb
+Size: 930130
+MD5sum: 6661ea346cd9f07b626384869fbab414
+SHA1: 1f1bd63961328c1a33096abaacdf1f8ca7934eb8
+SHA256: cda97749c51a46b56f41276b792496492e5dc9f1fed3efed2963f121ceff99af
+Section: Archiving
 Priority: optional
-Author: RazerOfficial
-Icon: icon.png
-Name: Razer雷蛇176-无根
+Multi-Arch: foreign
+Description: claims to be a good compressor
+Name: 7-zip (POSIX)
+
+Package: unrar
+Version: 5.6.4-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 736
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/unrar_5.6.4-1_iphoneos-arm.deb
+Size: 118130
+MD5sum: 3ec416b41c2fa800cd2cbd957213cdbf
+SHA1: b1be3febc8b517410eef1ca2f29869d28c857c00
+SHA256: 7e9dacd328519d4e9a0c0a0940213621530ae5f7677c1327de00952425e51858
+Section: Archiving
+Priority: optional
+Multi-Arch: foreign
+Homepage: http://www.rarlab.com/rar_add.htm
+Description: de-compresses files in rar format
+
+Package: unzip
+Version: 6.0+deb9u1-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 808
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/unzip_6.0+deb9u1-1_iphoneos-arm.deb
+Size: 90196
+MD5sum: 75f0c28bdfd5dd04c1f5d48ba9f8860f
+SHA1: 6fc3212fd33d1ce912f4e7fb810c6be38594149c
+SHA256: 3ad2e6282193a521dba00c8f79c80661cf4f96064f1ba75e56ba80e7ee512766
+Section: Archiving
+Priority: important
+Description: de-compesses files in zip format
 
 Package: wiki.qaq.chromatic
 Version: 2.1-REL-1654050540
@@ -405,17 +407,19 @@ Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 Name: Saily
 Website: https://sailyteam.github.io/Saily/index.html
 
-Package: zorroapp.18.0.1
-Version: 18.0.1
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate, gzip, ldid
-Filename: ./debs/zorroapp_18.deb
-Size: 17391388
-MD5sum: c8914f75e7176fc37888f3c3a7a376a8
-SHA1: e3c4d8c5ee0cd0b95460e23af72b6b0144f68e8b
-SHA256: 5a60856a95d2e0f714cae4493db8146655b1c51c9400352385bccd28e411e92a
-Section: [佐罗ZORRO iOS7-16]
-Author: zorroapp.cn
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: zorro全系備份_18.0.1「无根」
+Package: zip
+Version: 2.32-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 728
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./debs/zip_2.32-1_iphoneos-arm.deb
+Size: 52214
+MD5sum: b1cef31bfb417f23e93861159176af0b
+SHA1: 32ea892c1964f8f6893b0d157b5497aab3769588
+SHA256: 55b500e5750a7fe9395f8571749c0e04a90111b271832e552b6a3cf64324393c
+Section: Archiving
+Priority: important
+Multi-Arch: foreign
+Description: standard Windows compression tool
 
