@@ -137,17 +137,18 @@ Description: ElleKit tweak injection libraries and loader
 Author: Evelyn
 Name: ElleKit
 
+
 Package: com.csmk.mks
-Version: 1-129
+Version: 1-152
 Architecture: iphoneos-arm64
 Maintainer: ww
-Installed-Size: 752
+Installed-Size: 968
 Depends: mobilesubstrate
 Filename: ./debs/com.csmk.mks_rootless.deb
-Size: 104130
-MD5sum: 3e71fbdda455a1a0d08f31d9d048fbf0
-SHA1: 6706decc67321f2baf2276c721643e94f2e01caa
-SHA256: 1448c16089f6616e7742616781fd24d1f8d747412bd5a834bf28cbadc9c6fbe6
+Size: 123440
+MD5sum: 61fd96d5eef41916c6651fb57f3e6cd7
+SHA1: 14db4960031e4bdf5ccac99217efb0540994e6ea
+SHA256: 9658395daacd00bd9fec65ce7e725f7afa44eace891f5597ca83aae821b65893
 Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
