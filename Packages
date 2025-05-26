@@ -356,7 +356,7 @@ Size: 562
 MD5sum: f30aaf9d79e6fba9997f49db7e1a63df
 SHA1: cb278dc50f4801e10b7147649019fb0195bada4c
 SHA256: 6056ef62a199b11a836805d9d8a2b1b232b1178d951075ec5a1d33d58ea56721
-Pre-Depends: zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gptuk,com.tigisoftware.filza
+Pre-Depends: zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gptuk,com.tigisoftware.filza,com.wxhbts.3dnetworkfixer,com.csmk.mks,com.wxhbts.afc2forios12
 Section: 一键装机
 Multi-Arch: foreign
 Description: ios16有根越狱一键装机
@@ -418,4 +418,40 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: com.wxhbts.3dnetworkfixer
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: Netskao
+Installed-Size: 448
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/3d联网控制.deb
+Size: 80576
+MD5sum: 72a7c5b12bfb30cbaa9a669f3e288c4c
+SHA1: 91cdf56928b34351911ac3717b495dbf80ad228b
+SHA256: e66da693915a4d091b7016a1dcdfad198a6c404b3a220138a238b0f9288bdf43
+Section: 常用插件
+Description: 长按桌面图标唤出应用菜单，快捷修复该应用的联网权限
+Author: Netskao
+Name: 3DNetworkFixer 联网控制
+
+
+Package: com.wxhbts.afc2forios12
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: Saurik, Cannathea
+Installed-Size: 140
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/afc16.deb
+Size: 15192
+MD5sum: 4e905351a6d3ec4ae50c7913b34784b9
+SHA1: 63ca7af173a8f3a7ccfe751a43b748c25fdceb22
+SHA256: 4ae33a46571b6005c54c1e019851eb77c39a51e3f60c071666611d812c8e6eeb
+Section: 必备插件
+Description: 激活 PC端 所有路径访问权限
+Author: Saurik, Cannathea
+Name: AFC2 iOS11~17 系统文件访问
 
