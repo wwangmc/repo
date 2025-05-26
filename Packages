@@ -356,7 +356,7 @@ Size: 562
 MD5sum: f30aaf9d79e6fba9997f49db7e1a63df
 SHA1: cb278dc50f4801e10b7147649019fb0195bada4c
 SHA256: 6056ef62a199b11a836805d9d8a2b1b232b1178d951075ec5a1d33d58ea56721
-Pre-Depends: zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gptuk,com.tigisoftware.filza,com.wxhbts.3dnetworkfixer,com.csmk.mks,com.wxhbts.afc2forios12
+Pre-Depends: zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gptuk,com.tigisoftware.filza,com.wxhbts.3dnetworkfixer,com.csmk.mks,com.wxhbts.afc2forios12,com.touchspritepe.ios.arm64.pe
 Section: 一键装机
 Multi-Arch: foreign
 Description: ios16有根越狱一键装机
@@ -454,4 +454,20 @@ Section: 必备插件
 Description: 激活 PC端 所有路径访问权限
 Author: Saurik, Cannathea
 Name: AFC2 iOS11~17 系统文件访问
+
+Package: com.touchspritepe.ios.arm64.pe
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: ./debs/触动个人版.deb
+Size: 16798732
+MD5sum: 17c672bf777611051be62fdb64fc3288
+SHA1: 0bd3579d83ffc2720322961c612d32119148abd8
+SHA256: 1adf43f7ace9ed397e606bc1d6520bdf51b3d1758396c411e3605dd88479d7af
+Section: 触动个人版（适配 iOS8~16.x）
+Author: 北京帮你玩科技有限公司 <support@touchsprite.com>
+Icon: file:///Applications/TouchSpritePe.app/icon.png
+Name: 触动精灵个人版(arm64)
+Sponsor: 北京帮你玩科技有限公司 <http://www.touchsprite.com>
 
