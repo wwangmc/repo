@@ -252,7 +252,7 @@ Package: com.csmk.ceinstall
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: w
-Pre-Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan,com.csmk.mks
+Pre-Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.ghb.ios.gptuk,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan,com.csmk.mks
 Installed-Size: 4
 Filename: ./debs/com.csmk.ceinstall-arm64.deb
 Size: 562
@@ -269,7 +269,7 @@ Package: com.csmk.uoinstall
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: w
-Pre-Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.ghb.ios.gpt,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan,com.csmk.mks
+Pre-Depends: com.abcydia.afc2forios11,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.saurik.substrate.safemode,com.ex.substitute,com.ghb.ios.gptuk,com.x5742230695d9a9.mkrobot.arm64,com.ghb.ios.scan,com.csmk.mks
 Installed-Size: 4
 Filename: ./debs/com.csmk.uoinstall-arm64.deb
 Size: 562
@@ -390,7 +390,7 @@ Architecture: iphoneos-arm
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.ios15install.deb
-Pre-Depends: com.wxhbts.afc2d-arm64,zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gpt,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,com.saurik.substrate.safemode,com.ex.substitute,com.csmk.mks
+Pre-Depends: com.wxhbts.afc2d-arm64,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,com.saurik.substrate.safemode,com.ex.substitute,com.csmk.mks,com.ghb.ios.gptuk
 Size: 568
 MD5sum: f1919e7de2a4d13c9bcbea61f386d209
 SHA1: 8ad9ff983fed9bca3092173d4e46e74072cf9e07
