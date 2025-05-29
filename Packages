@@ -402,23 +402,6 @@ Author: w
 Name: ios15Install
 
 
-Package: com.csmk.mks
-Version: 2-43
-Architecture: iphoneos-arm
-Maintainer: ww
-Installed-Size: 904
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_arm.deb
-Size: 127544
-MD5sum: a1790654576a8a6ddc4b893f66514b52
-SHA1: bbe0c464a3a6aecdfc2b3a40cc7323aa7b50ec08
-SHA256: 271aab1726ed4e6cc8b62ad235cee1f00d74412af2bd988e26dd14bb5273db60
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
-
 Package: com.wxhbts.3dnetworkfixer
 Version: 1.1-8
 Architecture: iphoneos-arm
@@ -489,4 +472,21 @@ Description: ElleKit tweak injection libraries and loader
 Author: Evelyn
 Icon: https://ellekit.space/logos/logo.png
 Name: ElleKit
+
+Package: com.csmk.mks
+Version: 2-43
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 936
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_arm.deb
+Size: 135034
+MD5sum: e0d0854a5cde539559404a13db29b067
+SHA1: 6b32ba2943c30dc69d85917e73d3ea7199f0dc33
+SHA256: 2b84c391ecd59b2bf94021cf4bb2ebde3411951f495afa53a85efcf2908ddf46
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
 
