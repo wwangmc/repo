@@ -484,7 +484,7 @@ Size: 133500
 MD5sum: 0a37ab6f8651722375a0c58071041641
 SHA1: b811e9b5d1c6b1d969007728d797edb5ed75898b
 SHA256: 4f233cc7363803ac8becdc1705c6cd241e017781d46bf3296efb23ff15b5bd42
-Section: System
+Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
