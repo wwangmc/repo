@@ -139,17 +139,36 @@ Name: ElleKit
 
 
 
+Package: com.wxhbts.lookinloader-rootless
+Version: 1.2-0
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 1692
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/lookinloader-rootless.deb
+Size: 333350
+MD5sum: f8daa172a784d168d6a535dfbaed038f
+SHA1: 48b0533aa8b99863762d2b1a0b243fee1b8a07ec
+SHA256: 5af887ce339431af49db40546744d01ba180dc4a7910f323620ee8acb7e46709
+Section: 常用插件
+Description: LookinServer 动态加载工具
+Author: Netskao
+Depiction: https://apt.wxhbts.com/view/9300
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: LookinLoader-Rootless
+Sileodepiction: https://apt.wxhbts.com/sileo/9300
+
 Package: com.csmk.mks
-Version: 2-49
+Version: 2-55
 Architecture: iphoneos-arm64
 Maintainer: ww
 Installed-Size: 968
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_arm64.deb
-Size: 126092
-MD5sum: c69f58e740266c9630df7d33e5925a14
-SHA1: a06678324fad3de95f1fc5c49da9a798f0f41448
-SHA256: de585750a66b2c1c6773443e8f99a9bb6d17e7a2924c10424a334e161f0bd327
+Filename: ./debs/com.csmk.mks_2-55_iphoneos-arm64.deb
+Size: 125190
+MD5sum: f70e6b1670a17f22103cc7a39efee5ed
+SHA1: 0111b00b203051bb64161e4cffd4c1488771a39b
+SHA256: 155bcf2ccdaaf14aae44ae8eb3047e29eb30de788de7a2832ca6532a057ab8ec
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
