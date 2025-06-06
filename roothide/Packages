@@ -9,6 +9,7 @@ Size: 672
 MD5sum: 10b88050e22e8680aaf0917012a1e67c
 SHA1: 0142e5472cd6971f805eaecc45287f64047afb72
 SHA256: 826be7f0c46bc5660291bb9f7916dc5d9e2e3709b0d44b9974940d3b5ccebc03
+Section: 一键装机
 Description: 隐根装机
 Author: w
 Name: install_roothide
