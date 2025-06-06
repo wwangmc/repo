@@ -1,0 +1,32 @@
+Package: com.csmk.installroothide
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: w
+Installed-Size: 4
+Pre-Depends: ldid,com.cannathea.afc2d-arm64e,zip, unzip, gzip, unrar, p7zip,roothide.patches.filza,com.csmk.mks,com.tigisoftware.filza64bit,ellekit
+Filename: ./debs/com.csmk.installroothide_arm64e.deb
+Size: 672
+MD5sum: 10b88050e22e8680aaf0917012a1e67c
+SHA1: 0142e5472cd6971f805eaecc45287f64047afb72
+SHA256: 826be7f0c46bc5660291bb9f7916dc5d9e2e3709b0d44b9974940d3b5ccebc03
+Description: 隐根装机
+Author: w
+Name: install_roothide
+
+Package: com.csmk.mks
+Version: 2-59
+Architecture: iphoneos-arm64e
+Maintainer: ww
+Installed-Size: 948
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_iphoneos-arm64e.deb
+Size: 124300
+MD5sum: 2d931d99d2d1dd465435abd1b74823ad
+SHA1: 81f677b22f3ccaab0018d7f690c587a4caaee345
+SHA256: 508d77e25520f929481198fceba65a3753c5a78208ed6f91b5c0f4c9c6fa4bd3
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
+
