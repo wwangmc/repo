@@ -14,17 +14,18 @@ Description: 隐根装机
 Author: w
 Name: install_roothide
 
+
 Package: com.csmk.mks
-Version: 2-74
+Version: 2-77
 Architecture: iphoneos-arm64e
 Maintainer: ww
 Installed-Size: 948
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-74_iphoneos-arm64e.deb
-Size: 124300
-MD5sum: 306e55a48d24987496f0fac1a8bfa838
-SHA1: 8fb2db9d178f1c2b5e856d1cc827d1d391c2eda0
-SHA256: 00c411ec1dea65f9ce699155bcc9ea541c74cb7e0c8caff20d6ffba08ecf6dd5
+Filename: ./debs/com.csmk.mks_2-77_iphoneos-arm64e.deb
+Size: 124380
+MD5sum: a695ea2e6b17e0d2ec5199a9e2753f99
+SHA1: 209cbac33629948780eec99e944372f69c18c0fe
+SHA256: 5f80028f9b2855eaa90cbb65c4812e70f17652182862953056b39c365e19533c
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
