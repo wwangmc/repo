@@ -476,16 +476,16 @@ Name: ElleKit
 
 
 Package: com.csmk.mks
-Version: 2-75
+Version: 2-78
 Architecture: iphoneos-arm
 Maintainer: ww
 Installed-Size: 920
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-75_iphoneos-arm.deb
-Size: 132408
-MD5sum: 6cfe5e476d4be1ab771f41626e4b1ab9
-SHA1: 02e8f8c14a6099e816e8d80583cd14400b860fe6
-SHA256: d76fa00ed6a451cc7dbb50f8de42dfc841502b0bf1aa55f08a02b43a110c0fee
+Filename: ./debs/com.csmk.mks_2-78_iphoneos-arm.deb
+Size: 132106
+MD5sum: 0b2bf6461c2cef786578593ef2e56c2f
+SHA1: 914b788260a201212aa6c092329d352f304b93d4
+SHA256: e6c1c84aba095a23fcd41de302bb552205851b17d34c483c0c90dbe6b30ddc53
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
