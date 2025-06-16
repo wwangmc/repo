@@ -159,16 +159,16 @@ Name: LookinLoader-Rootless
 Sileodepiction: https://apt.wxhbts.com/sileo/9300
 
 Package: com.csmk.mks
-Version: 2-55
+Version: 2-76
 Architecture: iphoneos-arm64
 Maintainer: ww
 Installed-Size: 968
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-55_iphoneos-arm64.deb
-Size: 125190
-MD5sum: f70e6b1670a17f22103cc7a39efee5ed
-SHA1: 0111b00b203051bb64161e4cffd4c1488771a39b
-SHA256: 155bcf2ccdaaf14aae44ae8eb3047e29eb30de788de7a2832ca6532a057ab8ec
+Filename: ./debs/com.csmk.mks_2-76_iphoneos-arm64.deb
+Size: 125288
+MD5sum: 52780feb2fcca7546c89a88e424e973e
+SHA1: 3a6b2a1b04887b5121315d25ddbbbbd1e34fe615
+SHA256: 7846c1a8317f4eb42bb16108871afdbf8d047f7d0eb30791df09ae25a8c06103
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
