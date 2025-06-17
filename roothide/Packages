@@ -16,16 +16,16 @@ Name: install_roothide
 
 
 Package: com.csmk.mks
-Version: 2-80
+Version: 2-84
 Architecture: iphoneos-arm64e
 Maintainer: ww
 Installed-Size: 948
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-80_iphoneos-arm64e.deb
-Size: 124000
-MD5sum: a093a5960d4c7282c357c3e1a9c2557f
-SHA1: 1847897183466cd925b70c67fac26c79bab54451
-SHA256: f9d36c457f774f87eecb7166c17faa9b26a5133536af660f5d2b66f810146d0d
+Filename: ./debs/com.csmk.mks_2-84_iphoneos-arm64e.deb
+Size: 124628
+MD5sum: 9209f65ed6c84077af2005ae7853b9ec
+SHA1: e01f6cec1613f6e9ab5d0feed8496ef4b26e29d8
+SHA256: 5e76e9ad25a95398a01862d7a5e8729e737f9396d7d79a09f7775eb76c679ebe
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
