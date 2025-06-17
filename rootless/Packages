@@ -106,7 +106,7 @@ Name: zorro全系備份_18.0.1「无根」
 Package: com.csmk.installrootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
-Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,ch.xxtou.hudapp.jb
+Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,ch.xxtou.hudapp.jb,cn.tinyapps.renet,com.ghb.ios.gptuk
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.installrootless_arm64.deb
@@ -190,4 +190,41 @@ Section: Tweaks
 Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
+
+Package: cn.tinyapps.renet
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 805
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/renet_1.2.2_iphoneos-arm64.deb
+Size: 224172
+MD5sum: 5c18a857633d709a04668b706743e7da
+SHA1: 212e94fa949ddfd7d4ed264bae63ba1c58df8f6d
+SHA256: 8468a2600e2d754329a2e6635878ceef7b260ac4fcc9b48f23ebe050c70062ca
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Description: 修复越狱后Cydia、Sileo等各种软件无法联网的问题
+Tag: purpose::extension
+Author: Tinyapps <tinyapps@qq.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Dev: tinyapps
+Icon: file:///var/jb/Applications/Renet.app/AppIcon20x20@3x.png
+Name: 连个锤子-越狱联网一键修复[iOS 10.0~16+]
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.ghb.ios.gptuk
+Version: 2.13-361
+Architecture: iphoneos-arm64
+Maintainer: ghb
+Installed-Size: 5600
+Filename: ./debs/2.13_L_go4.deb
+Size: 1749394
+MD5sum: e7747b1eb12c354889c5f3629160c6b1
+SHA1: fdfda022a32d832c94d2853ac502a158325d36df
+SHA256: 698b46d4d45571bcb784777d05008b2e07def1ed56e17887c9dc1ddd80c7ac06
+Section: Utilities
+Description: An awesome application!
+Author: gpt
+Name: GPT_uk
 
