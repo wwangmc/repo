@@ -158,39 +158,6 @@ Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
 Name: LookinLoader-Rootless
 Sileodepiction: https://apt.wxhbts.com/sileo/9300
 
-Package: com.csmk.mks
-Version: 2-83
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 968
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-83_iphoneos-arm64.deb
-Size: 125586
-MD5sum: a7ed927c9f73d7705f12b3c57873f5a6
-SHA1: 4f05e192790bdea8d6829aa92e09a04f8701e2cb
-SHA256: 7e890f56b61de58fc1baf1124019ed06e5a70160f4ba245d0906eca3e7e31e48
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
-
-Package: ch.xxtou.hudapp.jb
-Version: 1.12.1-16
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 696
-Depends: firmware (>= 14.0)
-Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1-16_iphoneos-arm64.deb
-Size: 175240
-MD5sum: e2cd383af929049813d82d21e8b70de1
-SHA1: 348bfff9c8d18ace21852ea5005ab706e4f0e5e6
-SHA256: 10caec6f933e3f02aeaab9c2a136ea19f4001bf2e33245d2af08c493b8cfa7e8
-Section: Tweaks
-Description: Troll your speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: TrollSpeed JB
-
 Package: cn.tinyapps.renet
 Version: 1.2.2
 Architecture: iphoneos-arm64
@@ -227,4 +194,37 @@ Section: Utilities
 Description: An awesome application!
 Author: gpt
 Name: GPT_uk
+
+Package: com.csmk.mks
+Version: 2-86
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 968
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_2-86_iphoneos-arm64.deb
+Size: 125218
+MD5sum: 83e2bd87dcc03a7bb5231da9ca559a87
+SHA1: fb5d7a0652b62b0a337534854f08986bbd77040b
+SHA256: 03e7122afb3e31c888c01152a7c25eb8f45afdb8ee15ac3248a4dd28133e8cbe
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
+
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.1-18
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 696
+Depends: firmware (>= 14.0)
+Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1-18_iphoneos-arm64.deb
+Size: 175512
+MD5sum: 3d418d23be3dc8c4dfd2ca41f175f5a2
+SHA1: ba1b7eddef8145bda3d2391d91dc420c84476d99
+SHA256: 3be99183ff1267e9ea4ad7fb396e71598b3abf1ee70028bc058162f91e64b50c
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
 
