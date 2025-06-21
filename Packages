@@ -490,3 +490,19 @@ Tag: role::hacker
 Author: ww
 Name: mks
 
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.1-22
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 696
+Depends: firmware (>= 14.0)
+Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1-22_iphoneos-arm.deb
+Size: 175646
+MD5sum: b1044cbf37cadebbbd0c302b58d81ea2
+SHA1: c29d086bd2717c86613567bd479f1d57b41c5cf7
+SHA256: 1c794e54ae1baf6bbb6cf80261775561c11bb301bc5e681cda9e16ade4404deb
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
