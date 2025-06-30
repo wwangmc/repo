@@ -507,3 +507,19 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
+Package: com.csmk.ast
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1_iphoneos-arm.deb
+Size: 76658
+MD5sum: 125dcb278bfa053018cd1da01f5d6622
+SHA1: da88419e523b11f17cf2a117dc2d78c4346e949c
+SHA256: 22b0f3b4c957867447483c34c2c445f21ffd7af376200ba1882af26623a13532
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
+

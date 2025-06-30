@@ -106,7 +106,7 @@ Name: zorro全系備份_18.0.1「无根」
 Package: com.csmk.installrootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
-Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,ch.xxtou.hudapp.jb
+Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,ch.xxtou.hudapp.jb,com.csmk.ast
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.installrootless_arm64.deb
@@ -227,4 +227,20 @@ Section: Tweaks
 Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
+
+Package: com.csmk.ast
+Version: 1
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1_iphoneos-arm64.deb
+Size: 73864
+MD5sum: fc29371244e351b4f15c05ebcab41626
+SHA1: ac6d65bdd57399e4952b393e8ac44e0be922d81e
+SHA256: 409be547b8d523997095df8b31098ebc4da8975c66d50708cd749eb7ae081828
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
 
