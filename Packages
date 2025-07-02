@@ -473,23 +473,6 @@ Author: Evelyn
 Icon: https://ellekit.space/logos/logo.png
 Name: ElleKit
 
-Package: com.csmk.mks
-Version: 2-85
-Architecture: iphoneos-arm
-Maintainer: ww
-Installed-Size: 920
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-85_iphoneos-arm.deb
-Size: 132802
-MD5sum: 2785a599ac9d1417c55a2850d3ce59f3
-SHA1: bdb478e5a6f6b7bb7b3c6e2f92aa9587b7723104
-SHA256: 37cdb309b52a434e608a4e89fc4dcde281fd26ab05f3b0b08c44d5f1f0f1f2db
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
-
 
 Package: ch.xxtou.hudapp.jb
 Version: 1.12.1-24
@@ -522,4 +505,21 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
+
+Package: com.csmk.mks
+Version: 2-88
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 936
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_2-88_iphoneos-arm.deb
+Size: 134572
+MD5sum: 5a242c26d55fee7be2d13779b6afc051
+SHA1: 801d09f0b9e07e5c88c672423b97572a68350a86
+SHA256: ff44999f80e12e9480026dc9096370e2782fff7ecd7f3440bdc4040351e1295c
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
 

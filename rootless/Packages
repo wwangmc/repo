@@ -195,22 +195,6 @@ Description: An awesome application!
 Author: gpt
 Name: GPT_uk
 
-Package: com.csmk.mks
-Version: 2-86
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 968
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-86_iphoneos-arm64.deb
-Size: 125218
-MD5sum: 83e2bd87dcc03a7bb5231da9ca559a87
-SHA1: fb5d7a0652b62b0a337534854f08986bbd77040b
-SHA256: 03e7122afb3e31c888c01152a7c25eb8f45afdb8ee15ac3248a4dd28133e8cbe
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
 
 Package: ch.xxtou.hudapp.jb
 Version: 1.12.1-23
@@ -243,4 +227,21 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
+
+Package: com.csmk.mks
+Version: 2-89
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 968
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_2-89_iphoneos-arm64.deb
+Size: 126324
+MD5sum: 65a31057d1302a34fd9e5a7c0933b650
+SHA1: bc79e9a4131af2e0d98dc4f42e2554ce8e73f789
+SHA256: b84420a47931b0466bc9250fa2565e898e37fc190bb3e9a6c4ac0ab7e2ce17c9
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
 
