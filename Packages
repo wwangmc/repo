@@ -524,3 +524,20 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
 
+Package: com.sergy.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm.deb
+Size: 42702
+MD5sum: 1b416e4898e23daa5fad4530a5bfa9ff
+SHA1: 0cc950f0d1f9637388a8591cbb63b2eed96bbec5
+SHA256: a98f495718a4ce1528960b3090e1393ee63b348710c397ffee9f770afbf3fdf3
+Section: Tweaks
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Name: Immortalizer
+
