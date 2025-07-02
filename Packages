@@ -507,16 +507,16 @@ Author: ww
 Name: ast
 
 Package: com.csmk.mks
-Version: 2-88
+Version: 2-100
 Architecture: iphoneos-arm
 Maintainer: ww
 Installed-Size: 936
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-88_iphoneos-arm.deb
-Size: 134572
-MD5sum: 5a242c26d55fee7be2d13779b6afc051
-SHA1: 801d09f0b9e07e5c88c672423b97572a68350a86
-SHA256: ff44999f80e12e9480026dc9096370e2782fff7ecd7f3440bdc4040351e1295c
+Filename: ./debs/com.csmk.mks_2-100_iphoneos-arm.deb
+Size: 134800
+MD5sum: 7b4998cc66300191a99b28bd6062ce5b
+SHA1: d4b89633ea4ed1d11eb997a4c1f1c59c36ebf400
+SHA256: 7bb90ab6fa7da2a6495e61d8408cccec0553c418fa6f69a1851b210ae21f36d4
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
