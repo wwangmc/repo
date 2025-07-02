@@ -33,3 +33,19 @@ Tag: role::hacker
 Author: ww
 Name: mks
 
+Package: com.csmk.ast
+Version: 1-3
+Architecture: iphoneos-arm64e
+Maintainer: ww
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1-3_iphoneos-arm64e.deb
+Size: 79344
+MD5sum: fffcc27fcc5cc90bfcfff54641a18fff
+SHA1: 42a21627b4820d4f4233144d4afbeb0c90a436b0
+SHA256: 615fd23b6b56d0035117be49f2e9a367c92fe88a6880cb454425bf4c3a05c546
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
+

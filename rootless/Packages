@@ -212,21 +212,6 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
-Package: com.csmk.ast
-Version: 1
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 448
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1_iphoneos-arm64.deb
-Size: 73864
-MD5sum: fc29371244e351b4f15c05ebcab41626
-SHA1: ac6d65bdd57399e4952b393e8ac44e0be922d81e
-SHA256: 409be547b8d523997095df8b31098ebc4da8975c66d50708cd749eb7ae081828
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: ast
 
 
 Package: com.csmk.mks
@@ -245,4 +230,20 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: com.csmk.ast
+Version: 1-2
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1-2_iphoneos-arm64.deb
+Size: 79412
+MD5sum: c1bfd72ba93495c5add7d73eac68e185
+SHA1: 628f7d0b9473f684c4b85147fd9cc8fe6f23ea3d
+SHA256: 2e5bcf3f3399e35e0517cb9af5904793fbac0bdaab034e71e5153603dc9cb69c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
 
