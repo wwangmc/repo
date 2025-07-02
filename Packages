@@ -538,7 +538,6 @@ SHA256: a98f495718a4ce1528960b3090e1393ee63b348710c397ffee9f770afbf3fdf3
 Section: Tweaks
 Description: Foreground your apps even if they are in the background!
 Author: sergy
-Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 Name: Immortalizer
 
 Package: com.opa334.altlist
@@ -556,7 +555,6 @@ Section: System
 Description: A modern AppList alternative
 Tag: role::developer
 Author: opa334
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
 Name: AltList
 
 Package: com.opa334.ccsupport
@@ -574,12 +572,26 @@ MD5sum: 53582b19fdb575fa8eae3bc0e2fabe06
 SHA1: d3eaef9c0f74556cf86cf74ffacfe65c7afd8a20
 SHA256: 6f7ea4f20890ae879e9548b1f0261b8f12b37a6575ae8685d2585ec372669198
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Description: Support tweak for CC modules!
 Tag: purpose::extension
 Author: opa334 <opa334@protonmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Dev: opa334
 Name: CCSupport
-Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: preferenceloader
+Version: 2.2.6
+Architecture: iphoneos-arm
+Installed-Size: 526
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_2.2.6.deb
+Size: 36414
+MD5sum: 551c39b9d6d58be5ad82e81a59a1715f
+SHA1: c1d547036234756c5e75a633393d4ffa791b1126
+SHA256: 335fff25ff13021889ba856ce84fbc23ba25569f1c6cc65a3e113b433b1ed60f
+Section: System
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Sam Bingner <maintainer@sbdhi.com>
+Dev: dustinhowett
+Name: PreferenceLoader
 
