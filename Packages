@@ -595,3 +595,18 @@ Author: Sam Bingner <maintainer@sbdhi.com>
 Dev: dustinhowett
 Name: PreferenceLoader
 
+Package: com.nahtedetihw.closeall
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ethan Whited
+Installed-Size: 208
+Filename: ./debs/com.nahtedetihw.closeall_1.0_iphoneos-arm.deb
+Size: 21670
+MD5sum: 5a7729dd87d638fc3fe03f9ec4376c88
+SHA1: 0116c3e672a852b98aa8131c553b61af1232ffe5
+SHA256: ef97d1507493e4d2f453cd4048dd442c6c36c4f9ca29dd029b41a93debb5f69a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Whited
+Name: CloseAll
+
