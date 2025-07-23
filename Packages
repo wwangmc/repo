@@ -490,24 +490,6 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
-
-Package: com.csmk.mks
-Version: 2-100
-Architecture: iphoneos-arm
-Maintainer: ww
-Installed-Size: 936
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_2-100_iphoneos-arm.deb
-Size: 134800
-MD5sum: 7b4998cc66300191a99b28bd6062ce5b
-SHA1: d4b89633ea4ed1d11eb997a4c1f1c59c36ebf400
-SHA256: 7bb90ab6fa7da2a6495e61d8408cccec0553c418fa6f69a1851b210ae21f36d4
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
-
 Package: com.csmk.ast
 Version: 1-1
 Architecture: iphoneos-arm
@@ -609,4 +591,21 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Ethan Whited
 Name: CloseAll
+
+Package: com.csmk.mks
+Version: 3-1
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 1088
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_3-1_iphoneos-arm.deb
+Size: 181890
+MD5sum: 65b147648e7d2a0d0ea9d381f613cbc6
+SHA1: 18f43acb4e97637546dadbb1d47cebd401fe6a86
+SHA256: 52c6f9ca3b238c22fbbdf107a8fbb358c18eecd31433960f9c069d37481dd249
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
 
