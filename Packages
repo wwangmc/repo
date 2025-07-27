@@ -197,23 +197,6 @@ Name: iOS远控
 
 
 
-
-Package: com.x5742230695d9a9.mkrobot.arm64
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: lixin7295
-Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./debs/小精灵十年授权.deb
-Size: 9808138
-MD5sum: 570ed2f678e4bb90078fa7c63670ab6d
-SHA1: 3eb62e930b4c9d1154b9b4a0e51986e1298908bf
-SHA256: 2d75378cc747c855512c0f511cb487cfeb9aa2979173b86709225136fd5fafc5
-Section: 触动
-Author: lixin7295
-Icon: file:///Applications/mkrobot.app/AppIcon60x60@2x.png
-Name: 十年授权小精灵
-Sponsor: lixin7295
-
 Package: wiki.qaq.chromatic
 Version: 2.1-REL-1654050540
 Architecture: iphoneos-arm64
@@ -608,4 +591,20 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: com.x5742230695d9a9.mkrobot.arm64
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: lixin7295
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/小精灵十年授权.deb
+Size: 9808738
+MD5sum: 39f5afe01ba5d212a1437080638d6d13
+SHA1: 097549bf97d3af11fb9e9a2f6d2061fd7e015656
+SHA256: f2f231de44a71716fe4b13c10e01dc007985940bedee116796204cbf260aa2bb
+Section: robot
+Author: lixin7295
+Icon: file:///Applications/mkrobot.app/AppIcon60x60@2x.png
+Name: robot
+Sponsor: lixin7295
 
