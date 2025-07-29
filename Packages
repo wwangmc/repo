@@ -592,16 +592,16 @@ Name: robot
 Sponsor: lixin7295
 
 Package: com.csmk.mks
-Version: 3.1
+Version: 3.1.1
 Architecture: iphoneos-arm
 Maintainer: ww
-Installed-Size: 1256
+Installed-Size: 1220
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1_iphoneos-arm.deb
-Size: 175548
-MD5sum: b787d761723a1fc2810d49923f9ba44e
-SHA1: 48bcbcdcc532ad5a3739916f2ec1d2ce5310b74d
-SHA256: e1bd485de834bf728322bd0ef68dcb763cbec708a6b608971f82e553d33e09f3
+Filename: ./debs/com.csmk.mks_3.1.1_iphoneos-arm.deb
+Size: 163878
+MD5sum: 70468dd5848daa9dbdcab178764dd115
+SHA1: 80238b85b99c79b7909f5e022842c7a2c689b2ef
+SHA256: 6ac0d38a7cc109528e5c14cb97e3f46f823e2e1129f53e6bff9bb663fa388242
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker

@@ -300,16 +300,16 @@ Name: CloseAll
 
 
 Package: com.csmk.mks
-Version: 3.1
+Version: 3.1.1
 Architecture: iphoneos-arm64
 Maintainer: ww
-Installed-Size: 1320
+Installed-Size: 1284
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1_iphoneos-arm64.deb
-Size: 167880
-MD5sum: 16a9022198f90cb529b3dff9fbf1fa7b
-SHA1: e669bf169bec6f7b8a65cccdff9fa3ad6f9ae070
-SHA256: a5ab04ecbc860db762166e4e90e74fa131194e5c1f59d8dddd50818645e3dd56
+Filename: ./debs/com.csmk.mks_3.1.1_iphoneos-arm64.deb
+Size: 157030
+MD5sum: c087cb5cd7ec4f9f161de23f387767a8
+SHA1: 35532c53b86ba082e4ce3dffe5aef1ea0e0a81d8
+SHA256: 1c93dc486c5ad54f6fd28fa297ef9d29666e52c6ef34879e0b964a1dcbc7c344
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
