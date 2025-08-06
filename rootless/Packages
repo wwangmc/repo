@@ -298,18 +298,17 @@ Description: An awesome MobileSubstrate tweak!
 Author: Ethan Whited
 Name: CloseAll
 
-
 Package: com.csmk.mks
-Version: 3.1.1
+Version: 3.1.2
 Architecture: iphoneos-arm64
 Maintainer: ww
 Installed-Size: 1284
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.1_iphoneos-arm64.deb
-Size: 157030
-MD5sum: c087cb5cd7ec4f9f161de23f387767a8
-SHA1: 35532c53b86ba082e4ce3dffe5aef1ea0e0a81d8
-SHA256: 1c93dc486c5ad54f6fd28fa297ef9d29666e52c6ef34879e0b964a1dcbc7c344
+Filename: ./debs/com.csmk.mks_3.1.2_iphoneos-arm64.deb
+Size: 157794
+MD5sum: d8a20fc566f6ae4049d3130641b69347
+SHA1: 76c8e936a3918830c88490db2e2b639aead1b8a5
+SHA256: e8cc015e6a7aed1d85c989007bb8e2b7b510fea72761ad845e1518ea49d5555d
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
