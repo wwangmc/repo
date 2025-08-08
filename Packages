@@ -473,22 +473,6 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
-Package: com.csmk.ast
-Version: 1-1
-Architecture: iphoneos-arm
-Maintainer: ww
-Installed-Size: 448
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1-1_iphoneos-arm.deb
-Size: 83440
-MD5sum: bfbe6bfc892135bd4041a3097a4bf2eb
-SHA1: 40c7d4b716417e0a8b444ae7ce87b015ca2b1d1c
-SHA256: 3a163d36b3d0ad5d0164505af6a00b12f630deb22a7b82165f7dd3aea155be01
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: ast
-
 Package: com.sergy.immortalizer
 Version: 2.0.0-1
 Architecture: iphoneos-arm
@@ -591,17 +575,33 @@ Icon: file:///Applications/mkrobot.app/AppIcon60x60@2x.png
 Name: robot
 Sponsor: lixin7295
 
+Package: com.csmk.ast
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1.3_iphoneos-arm.deb
+Size: 73570
+MD5sum: a6351e583db215e2d6f5d7f45763b777
+SHA1: 8c07c419230eadb7ac4f5ee53b03c956b2b0fddb
+SHA256: 72d5789b62ec2df6d64192ac85abf2fb9d1ece53d03610e25a03be5250d16b8a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
+
 Package: com.csmk.mks
-Version: 3.1.2
+Version: 3.1.3
 Architecture: iphoneos-arm
 Maintainer: ww
 Installed-Size: 1220
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.2_iphoneos-arm.deb
-Size: 163618
-MD5sum: b4f9e3e12b1fc82bae96507c03067eeb
-SHA1: 91f12c6dcacfe3c2c8b35c95cd557c51c211c15f
-SHA256: a90146f2471966412a272d2764d21aea56504edf1684777ad5ddce4d07134754
+Filename: ./debs/com.csmk.mks_3.1.3_iphoneos-arm.deb
+Size: 163862
+MD5sum: 2ff91ed3bdb17185ddda4038c512aa11
+SHA1: deefb754163a954de169f7302a3d09f4d1883d78
+SHA256: 948dd6a0547c1ebc488cadcf1b6b8e0281b1a67cca1835b551a079af3e3c763f
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker

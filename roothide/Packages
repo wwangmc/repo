@@ -15,35 +15,36 @@ Author: w
 Name: install_roothide
 
 
+
+
+
 Package: com.csmk.ast
-Version: 1-3
+Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: ww
-Installed-Size: 448
+Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1-3_iphoneos-arm64e.deb
-Size: 79344
-MD5sum: fffcc27fcc5cc90bfcfff54641a18fff
-SHA1: 42a21627b4820d4f4233144d4afbeb0c90a436b0
-SHA256: 615fd23b6b56d0035117be49f2e9a367c92fe88a6880cb454425bf4c3a05c546
+Filename: ./debs/com.csmk.ast_1.3_iphoneos-arm64e.deb
+Size: 68840
+MD5sum: 6746418f94402d32bdc4d0873cc3fae6
+SHA1: a2c2c0951d4e3431b8b3f1c900f8b33a51b20201
+SHA256: eda29efd8347879b1296f228598c1e2c56839fcded7ca2a68d41f65b221ac886
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
 
-
-
 Package: com.csmk.mks
-Version: 3.1.2
+Version: 3.1.3
 Architecture: iphoneos-arm64e
 Maintainer: ww
 Installed-Size: 1264
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.2_iphoneos-arm64e.deb
-Size: 152922
-MD5sum: 7ec28cda274d20ad105ca65c787df0fd
-SHA1: 53ba1a3394c5e7203d0ac41f89cab65b66c57cd0
-SHA256: 3082aafcf87370c68fd84815c21905f136d3c6c6be08ccafc27218e97be03fa2
+Filename: ./debs/com.csmk.mks_3.1.3_iphoneos-arm64e.deb
+Size: 154026
+MD5sum: d24244247a74c7bb1fa27a89710e76b0
+SHA1: 5d32f34eb5d6c9d299649a23b26e4d62da918038
+SHA256: 1bfceeb2cdaa68a16be2e1ad9bfb25ea3a9f3ea9b4071f4c23f32e0dedb90c51
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
