@@ -590,6 +590,7 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
+
 Package: com.csmk.mks
 Version: 3.1.4
 Architecture: iphoneos-arm
