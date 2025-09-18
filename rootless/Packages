@@ -299,17 +299,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
 
+
+
 Package: com.csmk.mks
-Version: 3.1.5
+Version: 3.1.6
 Architecture: iphoneos-arm64
 Maintainer: ww
 Installed-Size: 1412
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.5_iphoneos-arm64.deb
-Size: 174286
-MD5sum: 8f3754aed5390b94c595a3752f7f086c
-SHA1: ef3d0d98c3fc875e565503db4ae85f180150992d
-SHA256: e7ce9c9179b4dd627159c30854f377d80b09061b70317e7deeca4755292fe592
+Filename: ./debs/com.csmk.mks_3.1.6_iphoneos-arm64.deb
+Size: 173954
+MD5sum: 8318e7e333ce09781f96b28abbc6bb3a
+SHA1: 760afdeb820a8115f17e3cbe3cbfd77882226290
+SHA256: 03c7b8960043d42cedf411e2df9c8acfd846a6867f614b38560ccdae668d12ba
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
