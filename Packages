@@ -324,7 +324,7 @@ Size: 562
 MD5sum: f30aaf9d79e6fba9997f49db7e1a63df
 SHA1: cb278dc50f4801e10b7147649019fb0195bada4c
 SHA256: 6056ef62a199b11a836805d9d8a2b1b232b1178d951075ec5a1d33d58ea56721
-Pre-Depends: ellekit,zip, unzip, gzip, unrar, p7zip,com.ghb.ios.gptuk,com.tigisoftware.filza,com.wxhbts.3dnetworkfixer,com.csmk.mks,com.wxhbts.afc2forios12
+Pre-Depends: ellekit,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.wxhbts.3dnetworkfixer,com.csmk.mks,com.wxhbts.afc2forios12
 Section: 一键装机
 Multi-Arch: foreign
 Description: ios16有根越狱一键装机
