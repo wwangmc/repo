@@ -592,18 +592,17 @@ Description: An awesome application!
 Author: gpt
 Name: GPT_uk
 
-
 Package: com.csmk.mks
-Version: 3.1.8
+Version: 3.1.9
 Architecture: iphoneos-arm
 Maintainer: ww
-Installed-Size: 1740
+Installed-Size: 1736
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.8_iphoneos-arm.deb
-Size: 217150
-MD5sum: 0e6ad190203b335c044014ecae961c98
-SHA1: 027cd25138f515783a04a2e29ada3f9b3716ce2d
-SHA256: 20a4bf856d6583f9ae88540cc960460c699cd2d53ee5bf25335c5dabc30cdb90
+Filename: ./debs/com.csmk.mks_3.1.9_iphoneos-arm.deb
+Size: 215510
+MD5sum: 970f9f92814f39f29c0963e70afa1393
+SHA1: 919a5e4797e7ce337cac16da58f547ad6b309504
+SHA256: f07fc9d7ee2b81c7bccdc1f67685eed03bd9ba30ffb3b5259bd0225b8a33ad80
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
