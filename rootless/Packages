@@ -299,22 +299,7 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
 
-Package: com.csmk.mks
-Version: 3.1.9
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 1816
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.9_iphoneos-arm64.deb
-Size: 205080
-MD5sum: dce92d8740122ff200a1cc15ad7a300b
-SHA1: bb9c77627e4336b7ee27c418a224a37c76d893bb
-SHA256: 6adfd8effc52198af52117802fa3d9019e2120feda51162e8e49ae698d59c1e6
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
+
 Package: re.frida.server
 Version: 16.5.2
 Architecture: iphoneos-arm64
@@ -332,4 +317,21 @@ Homepage: https://frida.re/
 Description: Observe and reprogram running programs.
 Author: Frida Developers <oleavr@nowsecure.com>
 Name: Frida
+
+Package: com.csmk.mks
+Version: 3.1.9
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 1816
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_3.1.9_iphoneos-arm64.deb
+Size: 204788
+MD5sum: 7c26999f4633fddf5e2f0bcfd033b8c9
+SHA1: 199531064bd9cf0c54d6af6137f3e621262b768c
+SHA256: f1cff81e4d8e79de3ec3acb957c0f49654e8757ff98d7ccf64f8e1e9b47b3a34
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
 

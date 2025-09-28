@@ -592,22 +592,6 @@ Description: An awesome application!
 Author: gpt
 Name: GPT_uk
 
-Package: com.csmk.mks
-Version: 3.1.9
-Architecture: iphoneos-arm
-Maintainer: ww
-Installed-Size: 1736
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.9_iphoneos-arm.deb
-Size: 215510
-MD5sum: 970f9f92814f39f29c0963e70afa1393
-SHA1: 919a5e4797e7ce337cac16da58f547ad6b309504
-SHA256: f07fc9d7ee2b81c7bccdc1f67685eed03bd9ba30ffb3b5259bd0225b8a33ad80
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
 
 Package: re.frida.server
 Version: 16.5.2
@@ -626,4 +610,21 @@ Homepage: https://frida.re/
 Description: Observe and reprogram running programs.
 Author: Frida Developers <oleavr@nowsecure.com>
 Name: Frida
+
+Package: com.csmk.mks
+Version: 3.1.9
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 1736
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_3.1.9_iphoneos-arm.deb
+Size: 215782
+MD5sum: c4527bfb6d5fc097362fac4bbe74e094
+SHA1: 2138d468fbc99a46fbb1ff1c3917cacdb496504c
+SHA256: b41bc6c0cabddf35829bb300b519923d3ea79f604f1dfdfbe41201cb7b8d7bfa
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
 
