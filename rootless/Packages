@@ -316,3 +316,21 @@ Tag: role::hacker
 Author: ww
 Name: mks
 
+Package: re.frida.server
+Version: 16.7.19
+Architecture: iphoneos-arm64
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 54584
+Conflicts: re.frida.server64
+Filename: ./debs/frida_16.7.19_iphoneos-arm64.deb
+Size: 16846828
+MD5sum: 1c052afe80be5b96e61e28eaceb814b7
+SHA1: 39fd22000448a6bf99d209ab2004f27b7345746b
+SHA256: e6d583347af0cc8b137126fe5f5c9dbadfc51bb423261ac73d2ea89c1b3fa1db
+Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Author: Frida Developers <oleavr@nowsecure.com>
+Name: Frida
+
