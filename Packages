@@ -610,16 +610,16 @@ Author: ww
 Name: mks
 
 Package: re.frida.server
-Version: 16.7.19
+Version: 16.5.2
 Architecture: iphoneos-arm
 Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
-Installed-Size: 54576
+Installed-Size: 54076
 Conflicts: re.frida.server64
-Filename: ./debs/frida_16.7.19_iphoneos-arm.deb
-Size: 16845908
-MD5sum: 9f53da2d3e566a7a39fc80257dbc9aae
-SHA1: 566cec135abdbbf7fa887364f67e4c60de9441f2
-SHA256: bcdc45f1fc3a21ab6f567a95280b8b331c93a15015da2ea0c5de9abcfb19eaa6
+Filename: ./debs/frida_16.5.2_iphoneos-arm.deb
+Size: 16584804
+MD5sum: a98193ddeccf8611e5d77696979e1f7b
+SHA1: b1b75f9245ad2d83eaa375955e8bcdb915654177
+SHA256: 9720a54f148377eafcc33eef50061091ba327f79a5512d8d55e024a08cc1cf1f
 Section: Development
 Priority: optional
 Homepage: https://frida.re/
