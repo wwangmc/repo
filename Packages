@@ -1,20 +1,3 @@
-Package: apt.zscool.net.touch3.1.5
-Version: 3.1.5-87
-Architecture: iphoneos-arm
-Maintainer: touchsprite
-Installed-Size: 64944
-Depends: mobilesubstrate, firmware (>= 7.0)
-Replaces: com.touchsprite.ios.arm64.pro.v3, com.ts.touchsprite, com.darwindev.touchsprite, repo.so.touchsprite, touchsprite.178, com.touchsprite.ios
-Filename: ./debs/触动3.15破解版.deb
-Size: 24316946
-MD5sum: e332744d4565d38cfea4653a514aa3f8
-SHA1: c1b9269ec453b39f24559980689379dec2f650c8
-SHA256: 5635a6af2454fe5f9cc157867db76f0bb4cea08ddbba5c5f6324fa3dbe3c5575
-Section: 触动
-Author: touchsprite
-Icon: file:///Applications/TouchSprite.app/icon.png
-Name: 触动精灵破解版
-Sponsor: touchsprite
 
 Package: com.abcydia.afc2forios11
 Version: 1.3.3
@@ -627,4 +610,22 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: apt.zscool.net.touch3.1.5
+Version: 3.1.5-87
+Architecture: iphoneos-arm
+Maintainer: touchsprite
+Installed-Size: 64944
+Depends: mobilesubstrate, firmware (>= 7.0)
+Replaces: com.touchsprite.ios.arm64.pro.v3, com.ts.touchsprite, com.darwindev.touchsprite, repo.so.touchsprite, touchsprite.178, com.touchsprite.ios
+Filename: ./debs/触动破解版去弹窗.deb
+Size: 15623980
+MD5sum: cb5ccf06997b13eb9a87ea881d97b3ff
+SHA1: 5ef802caeae45690ce8aa085b08de199ecbe6ba0
+SHA256: a80d6c8b4572396feae5617f5216b4f81a062f3a4ab01f5f370d99f728ed1b8d
+Section: 未分类
+Author: touchsprite
+Icon: file:///Applications/TouchSprite.app/icon.png
+Name: 触动精灵专业版3.1.5-64位
+Sponsor: touchsprite
 
