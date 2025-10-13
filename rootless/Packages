@@ -335,17 +335,18 @@ Tag: role::hacker
 Author: ww
 Name: mks
 
+
 Package: com.csmk.alerttool
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: ww
 Installed-Size: 352
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debs/com.csmk.alerttool_1.0_iphoneos-arm64.deb
-Size: 8642
-MD5sum: e120d7e023cb2badc021164523b18707
-SHA1: 739e48a7c4e9528dffd528ba964dc7a7f5706c32
-SHA256: e5752e3bd3339f44700d3acf745cb99cadfa1357a113cc38464ebcae54a2a6a5
+Size: 8662
+MD5sum: 5b5a0320ff32695cd49ccc66fee42173
+SHA1: 7a1162f10ce58a72b19f30f3945d0d09e65fd3e1
+SHA256: db20785ab7315e3f2daaef23c7503055d0817aa25f5a592adf59cdec874228c5
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww

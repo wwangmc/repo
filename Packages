@@ -634,12 +634,12 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ww
 Installed-Size: 336
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debs/com.csmk.alerttool_1.0_iphoneos-arm.deb
-Size: 9158
-MD5sum: 19d4ec959b328f07f9d0fce511b54df3
-SHA1: bf30fd1bbf1580ed17bcaa21f7e2dd78bf1d7ee4
-SHA256: 7fb4ab4f3531be0cde4ecf04bf9863131f3b68b05ce1bc816980acb5c06118ae
+Size: 9178
+MD5sum: 64516749fc2a8ea1ba47d1d2f295e327
+SHA1: e66392baa7f97fcd85ad809158afecdbf0b5aa3e
+SHA256: 6e11d0f5574e5e2ec7db17ce53ee98c6d4456d81d50c646d1ff955b71c694f3b
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
