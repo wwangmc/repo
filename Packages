@@ -629,17 +629,19 @@ Icon: file:///Applications/TouchSprite.app/icon.png
 Name: 触动精灵专业版3.1.5-64位
 Sponsor: touchsprite
 
+
+
 Package: com.csmk.alerttool
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ww
-Installed-Size: 336
+Installed-Size: 320
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
 Filename: ./debs/com.csmk.alerttool_1.0_iphoneos-arm.deb
-Size: 9178
-MD5sum: 64516749fc2a8ea1ba47d1d2f295e327
-SHA1: e66392baa7f97fcd85ad809158afecdbf0b5aa3e
-SHA256: 6e11d0f5574e5e2ec7db17ce53ee98c6d4456d81d50c646d1ff955b71c694f3b
+Size: 9392
+MD5sum: 47a96ed7ca6ba6b01c3e3494eea68867
+SHA1: 217978d5184360f7dfadf2d1d728be437a568455
+SHA256: b9714872ab7a69a7b2969ddc21f44c42e1aa000da5803efb4481b29e28ae24d0
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
