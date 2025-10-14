@@ -283,22 +283,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: Ethan Whited
 Name: CloseAll
 
-Package: com.csmk.ast
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1.3_iphoneos-arm64.deb
-Size: 68154
-MD5sum: cd4455b20dcab163d2d843bbc73ff842
-SHA1: 0176b7686092e3ac30fe976ea7ccf5ce313af7d0
-SHA256: 8e064c0f69a7a01e21de53a44f03514455ab3f4a6d89de56ee540a9de36d7491
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: ast
-
 
 Package: re.frida.server
 Version: 16.5.2
@@ -318,23 +302,6 @@ Description: Observe and reprogram running programs.
 Author: Frida Developers <oleavr@nowsecure.com>
 Name: Frida
 
-Package: com.csmk.mks
-Version: 3.1.9
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 1816
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.9_iphoneos-arm64.deb
-Size: 204788
-MD5sum: 7c26999f4633fddf5e2f0bcfd033b8c9
-SHA1: 199531064bd9cf0c54d6af6137f3e621262b768c
-SHA256: f1cff81e4d8e79de3ec3acb957c0f49654e8757ff98d7ccf64f8e1e9b47b3a34
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
-
 
 Package: com.csmk.alerttool
 Version: 1.0
@@ -351,4 +318,37 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: alert_tool
+
+Package: com.csmk.ast
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1.4_iphoneos-arm64.deb
+Size: 99408
+MD5sum: 7e631551b48d8ad722403c622d631515
+SHA1: de456368bbc11037ae869ad62306023e8dfe8ab0
+SHA256: ec19d9907b486e5d5fd239a7b5e501747d98f0f510e7cdbfac346dfa516ebbce
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
+
+Package: com.csmk.mks
+Version: 3.2.0
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 1776
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_3.2.0_iphoneos-arm64.deb
+Size: 201806
+MD5sum: 183775abeed562ebd4f5e59d57ba2f19
+SHA1: 0399218b99550f4632c38402d868ad410cf03748
+SHA256: ceffaab171027453c8388590712210f8b56102c529208a2419d3036ac1309ef4
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
 

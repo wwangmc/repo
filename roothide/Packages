@@ -14,34 +14,33 @@ Description: 隐根装机
 Author: w
 Name: install_roothide
 
-
 Package: com.csmk.ast
-Version: 1.3
+Version: 1.4
 Architecture: iphoneos-arm64e
 Maintainer: ww
-Installed-Size: 400
+Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1.3_iphoneos-arm64e.deb
-Size: 68840
-MD5sum: 6746418f94402d32bdc4d0873cc3fae6
-SHA1: a2c2c0951d4e3431b8b3f1c900f8b33a51b20201
-SHA256: eda29efd8347879b1296f228598c1e2c56839fcded7ca2a68d41f65b221ac886
+Filename: ./debs/com.csmk.ast_1.4_iphoneos-arm64e.deb
+Size: 98296
+MD5sum: bcbe89780ec35acff84d4e14b77344f3
+SHA1: b556deee2898db3749cd056f73fdcbc53a31d672
+SHA256: 1a606e21bc6b7e3ee8f33ab715657ca6518f450276f57870962ae0ee0ae9b21e
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
 
 Package: com.csmk.mks
-Version: 3.1.9
+Version: 3.2.0
 Architecture: iphoneos-arm64e
 Maintainer: ww
-Installed-Size: 1796
+Installed-Size: 1756
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.1.9_iphoneos-arm64e.deb
-Size: 202286
-MD5sum: 8ca6c96b44d2ed3eea3b1345bd19dd3d
-SHA1: f0012752284706b3b8c7930d820c5787fc79be11
-SHA256: 349c22d86b90f046e821997afc2c646b79695b6739ee9aa824089fee718e44f4
+Filename: ./debs/com.csmk.mks_3.2.0_iphoneos-arm64e.deb
+Size: 199160
+MD5sum: cd0ed6300377a0f7210299ed62ddc186
+SHA1: 6de91f68be25176324f2d4f68e4fd45f425e404b
+SHA256: d68567bdf194318f70e34fcc063aa38a4daf4fd3de303e4fb75647b027c681d6
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
