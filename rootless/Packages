@@ -319,22 +319,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: alert_tool
 
-Package: com.csmk.ast
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 580
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1.4_iphoneos-arm64.deb
-Size: 99408
-MD5sum: 7e631551b48d8ad722403c622d631515
-SHA1: de456368bbc11037ae869ad62306023e8dfe8ab0
-SHA256: ec19d9907b486e5d5fd239a7b5e501747d98f0f510e7cdbfac346dfa516ebbce
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: ast
-
 Package: com.csmk.mks
 Version: 3.2.0
 Architecture: iphoneos-arm64
@@ -351,4 +335,20 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: com.csmk.ast
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1.5_iphoneos-arm64.deb
+Size: 98068
+MD5sum: fd4afb99738b895f78a0aa0e14d788ee
+SHA1: d31b97c6210e6ad008775d839596b43eae5545e2
+SHA256: 891b0cc2640331b6db430db868a00f1d8126e89937953cccb38f040f04d94d30
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
 

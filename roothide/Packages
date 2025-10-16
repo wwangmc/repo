@@ -13,22 +13,7 @@ Section: 一键装机
 Description: 隐根装机
 Author: w
 Name: install_roothide
-
-Package: com.csmk.ast
-Version: 1.4
-Architecture: iphoneos-arm64e
-Maintainer: ww
-Installed-Size: 580
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1.4_iphoneos-arm64e.deb
-Size: 98296
-MD5sum: bcbe89780ec35acff84d4e14b77344f3
-SHA1: b556deee2898db3749cd056f73fdcbc53a31d672
-SHA256: 1a606e21bc6b7e3ee8f33ab715657ca6518f450276f57870962ae0ee0ae9b21e
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: ast
+ 
 
 Package: com.csmk.mks
 Version: 3.2.0
@@ -46,4 +31,20 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: com.csmk.ast
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: ww
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1.5_iphoneos-arm64e.deb
+Size: 99154
+MD5sum: 926fe1a3f165e72629178de9001e0a24
+SHA1: a7f32fccfcfa38eaacb3a986f239eab61d62aa19
+SHA256: 2e0a86e36f4dcad2044b5bd89f2887e23158c1cbe8da2a6751d545b185e304ce
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
 
