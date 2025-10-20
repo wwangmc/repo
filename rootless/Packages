@@ -353,3 +353,19 @@ Tag: role::hacker
 Author: ww
 Name: mks
 
+Package: com.csmk.tweakgpt
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.tweakgpt_0.0.1_iphoneos-arm64.deb
+Size: 3024
+MD5sum: a2ced9697d789706a1a0de2b26a07f57
+SHA1: 59d1ad81f47a14a25469259fdca98c1ce6633eca
+SHA256: 2303d40f7f1927b61b34a4fb54c8b9a432a9a5f0dc59bf29c4d1e063a64035a6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: tweak_gpt
+
