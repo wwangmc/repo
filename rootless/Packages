@@ -369,3 +369,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: tweak_gpt
 
+Package: com.82flex.xcodeanytroll
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Filename: ./debs/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm64.deb
+Size: 60372
+MD5sum: 74549694a8e01bd6b8d36ad58f314c83
+SHA1: 6ac46b34bcfaedb348c9b289204fd4e32c499505
+SHA256: 6a582b2dcc96e0272879a6859d7f556dc4bb0db973d40445f5064364a665d128
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica
+Name: XcodeAnyTroll
+
