@@ -307,7 +307,7 @@ Size: 562
 MD5sum: f30aaf9d79e6fba9997f49db7e1a63df
 SHA1: cb278dc50f4801e10b7147649019fb0195bada4c
 SHA256: 6056ef62a199b11a836805d9d8a2b1b232b1178d951075ec5a1d33d58ea56721
-Pre-Depends: ellekit,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.wxhbts.3dnetworkfixer,com.csmk.mks,com.wxhbts.afc2forios12,com.csmk.alerttool
+Pre-Depends: ellekit,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.wxhbts.3dnetworkfixer,com.csmk.mks,com.wxhbts.afc2forios12
 Section: 一键装机
 Multi-Arch: foreign
 Description: ios16有根越狱一键装机
@@ -341,7 +341,7 @@ Architecture: iphoneos-arm
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.ios15install.deb
-Pre-Depends: com.wxhbts.afc2d-arm64,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,com.saurik.substrate.safemode,com.ex.substitute,com.csmk.mks,com.ghb.ios.gptuk,com.csmk.alerttool
+Pre-Depends: com.wxhbts.afc2d-arm64,zip, unzip, gzip, unrar, p7zip,com.tigisoftware.filza,com.x5742230695d9a9.mkrobot.arm64,com.saurik.substrate.safemode,com.ex.substitute,com.csmk.mks,com.ghb.ios.gptuk
 Size: 568
 MD5sum: f1919e7de2a4d13c9bcbea61f386d209
 SHA1: 8ad9ff983fed9bca3092173d4e46e74072cf9e07

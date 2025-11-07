@@ -106,7 +106,7 @@ Name: zorro全系備份_18.0.1「无根」
 Package: com.csmk.installrootless
 Version: 0.0.1
 Architecture: iphoneos-arm64
-Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,ch.xxtou.hudapp.jb,com.csmk.ast,com.csmk.alerttool
+Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,ch.xxtou.hudapp.jb,com.csmk.ast
 Maintainer: w
 Installed-Size: 4
 Filename: ./debs/com.csmk.installrootless_arm64.deb
@@ -369,17 +369,18 @@ Description: An awesome MobileSubstrate tweak!
 Author: Lessica
 Name: XcodeAnyTroll
 
+
 Package: com.csmk.mks
-Version: 3.2.2
+Version: 3.2.3
 Architecture: iphoneos-arm64
 Maintainer: ww
-Installed-Size: 1808
+Installed-Size: 1712
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.2.2_iphoneos-arm64.deb
-Size: 201090
-MD5sum: 236125488e04a950d632adf4afc7782f
-SHA1: 8e375b325aa8a245e90728d4a7df322538363cc4
-SHA256: 7ba823f250c18ef52548513724363921be6ea5ea1c851245722c553fa5cbcdf3
+Filename: ./debs/com.csmk.mks_3.2.3_iphoneos-arm64.deb
+Size: 186160
+MD5sum: cb41f9114d2ee88f4fc8794b58697f05
+SHA1: a8785aabc58872be99d6f70d5ce74a201c69b740
+SHA256: b3c8b6eca49855ea998a2fba40ff1ac770ae5c781c0108d96f7edd78521911d1
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
