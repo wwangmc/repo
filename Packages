@@ -631,17 +631,33 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
 
+Package: com.csmk.afip
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.afip_0.0.1_iphoneos-arm.deb
+Size: 7296
+MD5sum: eb6c92e18c0f30319d7261a0329173e9
+SHA1: 6a1539bb980f7eae317816586a3c64c2b40b8aa8
+SHA256: 4aef17b59b701086ec28c7b6f9857b08e1bb6a6beb71f8cbb20d54f0d5e1a5da
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: afIP
+
 Package: com.csmk.mks
-Version: 3.2.3
+Version: 3.2.4
 Architecture: iphoneos-arm
 Maintainer: ww
 Installed-Size: 1632
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.2.3_iphoneos-arm.deb
-Size: 194498
-MD5sum: aab167057e1111361fc91857a1dc1926
-SHA1: 5eba4844cab33e30cbd4989843208451792a82f2
-SHA256: 22567b8d06abc5b0bcc269a4550afe1201f1dd7c56ea3f1e0f86d91d63c77547
+Filename: ./debs/com.csmk.mks_3.2.4_iphoneos-arm.deb
+Size: 194668
+MD5sum: ccdeb82e48963e7b3d705917a1769d46
+SHA1: 84fa457879d59fd3a41811ab0481a36255393822
+SHA256: 61f3ab25f5e867fa888442afc2aae0e6becde0fd265d9d73dabc19dcc73c8f9e
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
