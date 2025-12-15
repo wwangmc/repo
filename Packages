@@ -648,19 +648,35 @@ Author: ww
 Name: afIP
 
 Package: com.csmk.mks
-Version: 3.2.4
+Version: 3.2.5
 Architecture: iphoneos-arm
 Maintainer: ww
 Installed-Size: 1632
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.2.4_iphoneos-arm.deb
-Size: 194668
-MD5sum: ccdeb82e48963e7b3d705917a1769d46
-SHA1: 84fa457879d59fd3a41811ab0481a36255393822
-SHA256: 61f3ab25f5e867fa888442afc2aae0e6becde0fd265d9d73dabc19dcc73c8f9e
+Filename: ./debs/com.csmk.mks_3.2.5_iphoneos-arm.deb
+Size: 194938
+MD5sum: 58972df0282757a15a21f4d6f12a3242
+SHA1: 03cf8923ad3275bdd1c850dfdf66190003544abb
+SHA256: c51e7c692f3320b512d598372a5968db574d5f56ac9aa26af9a3396de8123933
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: com.csmk.tweakgpt
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: ww
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.tweakgpt_0.0.1_iphoneos-arm.deb
+Size: 4826
+MD5sum: 4bb9815ae8fc88a0c76677835dc80173
+SHA1: 4d1878066c94265a096afcb84566b5871549891f
+SHA256: d7d74a948c036fda5877084d593ad28d80d2bd79d5b09b37b21c1874984ce6e3
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: tweak_gpt
 

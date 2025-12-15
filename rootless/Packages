@@ -370,16 +370,16 @@ Author: Lessica
 Name: XcodeAnyTroll
 
 Package: com.csmk.mks
-Version: 3.2.4
+Version: 3.2.5
 Architecture: iphoneos-arm64
 Maintainer: ww
 Installed-Size: 1712
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.2.4_iphoneos-arm64.deb
-Size: 186414
-MD5sum: 1214be9e6f25dc677d00a3d50805c2a8
-SHA1: 824911fd3f2ca583b42305e9079a26d39455d155
-SHA256: a30243645f437e35ffd9ae9307f9d9421524f79e8458beaeadbbbf1f50bcbee8
+Filename: ./debs/com.csmk.mks_3.2.5_iphoneos-arm64.deb
+Size: 187136
+MD5sum: 25f2b8fc76552958c1fa5c0a7e6769b7
+SHA1: faf6df1ad3f9ce7fdf19c7de63cf8486fcb51ced
+SHA256: 85ad41c210730f09565f369797ff38169007415b41adce586b827a2574870447
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
