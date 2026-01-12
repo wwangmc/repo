@@ -369,17 +369,18 @@ Description: An awesome MobileSubstrate tweak!
 Author: Lessica
 Name: XcodeAnyTroll
 
+
 Package: com.csmk.mks
-Version: 3.2.6
+Version: 3.2.7
 Architecture: iphoneos-arm64
 Maintainer: ww
-Installed-Size: 1712
+Installed-Size: 1900
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.2.6_iphoneos-arm64.deb
-Size: 187608
-MD5sum: 39f29431fd87e3bdb6c98409250ae628
-SHA1: 8f0f61737f70b8603b45e42e1391242608892b43
-SHA256: e42faa3b9392dc9c2a3dd62d680ba95eacecdeff0322edd855db84f9c27d8042
+Filename: ./debs/com.csmk.mks_3.2.7_iphoneos-arm64.deb
+Size: 227092
+MD5sum: 771a219da4f78c9e1be9a6931f065bf2
+SHA1: 0a79aa141e1492c29bb93fe18dd1ebeeef7f6d11
+SHA256: 22062a1aaca05b9404ddfc4bf599152c74f2d9d12e7c428f650e9fca2e249b34
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
