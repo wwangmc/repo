@@ -670,15 +670,15 @@ Author: ww
 Name: tweak_gpt
 
 Package: com.ghb.ios.gptuk
-Version: 2.12-164
+Version: 2.13-140
 Architecture: iphoneos-arm
 Maintainer: ghb
-Installed-Size: 5424
-Filename: ./debs/2.12_UK.deb
-Size: 1703174
-MD5sum: 5690b613f5de37a80c6df036b3ed23a7
-SHA1: 7d9832656b6a29db5a6e0ad1da96934b5f2b8f83
-SHA256: 9a3e83b8b4790121c500899788f294a7870b4bae2e0348de5b66a57c35fb6a48
+Installed-Size: 6164
+Filename: ./debs/gptuk_2.13-x-sudoku.deb
+Size: 2511734
+MD5sum: 29f8f4bdc06da8b6738dbcc8250d52d3
+SHA1: 5efb0d9e0dcdabb4fb9f920d2af9f8cd641f79e9
+SHA256: 613547ac67c6ae527cef5afae85ddf9a4935bdcf0641808aec721e44e809e9ce
 Section: Utilities
 Description: An awesome application!
 Author: gpt
