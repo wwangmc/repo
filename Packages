@@ -674,11 +674,11 @@ Version: 2.13-140
 Architecture: iphoneos-arm
 Maintainer: ghb
 Installed-Size: 6164
-Filename: ./debs/gptuk_2.13-x-sudoku.deb
-Size: 2511734
-MD5sum: 29f8f4bdc06da8b6738dbcc8250d52d3
-SHA1: 5efb0d9e0dcdabb4fb9f920d2af9f8cd641f79e9
-SHA256: 613547ac67c6ae527cef5afae85ddf9a4935bdcf0641808aec721e44e809e9ce
+Filename: ./debs/gpt_sudokux_2.12杂交版.deb
+Size: 1741620
+MD5sum: 467064d930fba297a6f26d9207fda63c
+SHA1: e3f16adc0b6efed405c75b2fd60d8f69e9b86fad
+SHA256: 7e919fa653fc22abf99e99c90362dadbd146f17b22414d2524351411a74fa770
 Section: Utilities
 Description: An awesome application!
 Author: gpt
