@@ -378,10 +378,10 @@ Maintainer: ww
 Installed-Size: 584
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.csmk.ast_1.6_iphoneos-arm64.deb
-Size: 95862
-MD5sum: 6133a56bfa9397d5b2b385cd5141a433
-SHA1: 4830c5e82f41e92e8a7ca91519285ad38760d74b
-SHA256: 0b491c6097832657465886f94ef3508ee060ceb06ddc5c129599a119f6e50810
+Size: 96312
+MD5sum: fed496507bdca7333b02943a53123922
+SHA1: fee5384e71a0e45019b2fe9e547de449e3e15b60
+SHA256: 5bbcddeea273f96fb7ffd16f9f421a514d8410ef9c58ad794f6337a872fbdc22
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
