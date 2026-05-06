@@ -684,3 +684,19 @@ Description: An awesome application!
 Author: gpt
 Name: GPT_uk
 
+Package: com.csmk.tsl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: mk
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.tsl_0.0.1_iphoneos-arm.deb
+Size: 8434
+MD5sum: a815ae199686289b1b17c76d9a5f5ef0
+SHA1: 43361163dd9d6d8cc5174c8629778f708c483c65
+SHA256: c650ac81fe87e2f25512ee79e1701e5227bdcc65c7f449952356afa0fb1ebbe0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: mk
+Name: tsl
+
