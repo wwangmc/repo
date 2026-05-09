@@ -688,10 +688,10 @@ Maintainer: ww
 Installed-Size: 1900
 Depends: mobilesubstrate
 Filename: ./debs/com.csmk.mks_3.2.8_iphoneos-arm.deb
-Size: 235292
-MD5sum: 2819fec5c57aa6a4d00f1a5729e759e6
-SHA1: 6d87bff197955a286048b0022975e93fa21dd6f4
-SHA256: 5e7c01c61fe0e92d730872d6f049d7ba91bb3c7c833183383c92402d84f75d82
+Size: 235906
+MD5sum: 5b0eea37893c44b9eb80bb3809f47293
+SHA1: 82349b5cd7789ddc5dee03df8213b54f893c188c
+SHA256: f0eceba9c5c222adf7e3f5b791f9c35b7be74dd638eae2be8a00b545779fe9ac
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
