@@ -354,25 +354,6 @@ Author: Lessica
 Name: XcodeAnyTroll
 
 
-Package: com.csmk.mks
-Version: 3.2.7
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 1900
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.2.7_iphoneos-arm64.deb
-Size: 227092
-MD5sum: 771a219da4f78c9e1be9a6931f065bf2
-SHA1: 0a79aa141e1492c29bb93fe18dd1ebeeef7f6d11
-SHA256: 22062a1aaca05b9404ddfc4bf599152c74f2d9d12e7c428f650e9fca2e249b34
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
-
-
-
 Package: com.csmk.ast
 Version: 1.6
 Architecture: iphoneos-arm64
@@ -388,4 +369,21 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
+
+Package: com.csmk.mks
+Version: 3.2.8
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 1900
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_3.2.8_iphoneos-arm64.deb
+Size: 227362
+MD5sum: 271db6a5c5230d0b62b504346cebacb0
+SHA1: 1998a44ac8b95f67e8f58e40eb309586ce761d35
+SHA256: d5e4ebd36a41fba6f03b432e814c9210f134f6fe027f51f1a7e1c8192b6c77d2
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
 
