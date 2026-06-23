@@ -354,22 +354,6 @@ Author: Lessica
 Name: XcodeAnyTroll
 
 
-Package: com.csmk.ast
-Version: 1.6
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 584
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1.6_iphoneos-arm64.deb
-Size: 96312
-MD5sum: fed496507bdca7333b02943a53123922
-SHA1: fee5384e71a0e45019b2fe9e547de449e3e15b60
-SHA256: 5bbcddeea273f96fb7ffd16f9f421a514d8410ef9c58ad794f6337a872fbdc22
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: ast
-
 
 Package: com.csmk.mks
 Version: 3.2.8
@@ -387,4 +371,20 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: ww
 Name: mks
+
+Package: com.csmk.ast
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1.7_iphoneos-arm64.deb
+Size: 96978
+MD5sum: 7454d41627b1d2f31f7e79a16098417f
+SHA1: a9272f7a0c019301efd7805b123ec515df2bdea0
+SHA256: fae850ca413cf201aeb6a7dbc26addfc5c952a0ac0ca535a88bbb067549b6f5b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
 
