@@ -1,162 +1,18 @@
-Package: com.opa334.trollstorehelper
-Version: 2.0.15
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.1-23
 Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 4400
-Filename: ./debs/com.opa334.trollstorehelper_2.0.15_iphoneos-arm64.deb
-Size: 1919638
-MD5sum: 73e14f01c4d3469e118e63e5f752feba
-SHA1: 9438cf3af05d46de6b60c44d9f899a723a55bf48
-SHA256: 232c5e793b4f7e84ce6e97330475f42f6103a97a1f8c4b01ec6db51c9682ff16
-Section: 巨魔
-Description: Helper utility to install and manage TrollStore!
-Author: opa334
-Name: TrollStore Helper
-
-Package: com.tigisoftware.filza
-Version: 4.0.1-3
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 31822
-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
-Filename: ./debs/filza_rootless.deb
-Size: 10216820
-MD5sum: 4812dc73e2ed0a0281b18e876d96edf1
-SHA1: 50f62b44b8a3804743ea9a136bf7542dfc07e43e
-SHA256: 918a39bd1cf0edefe1bb1a0fbb2253ad764a5633649a22c85ae3df7e33689586
-Section: filza
-Priority: optional
-Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
-Tag: purpose::uikit
-Author: TIGI Software <satashi2009@gmail.com>
-Dev: satashi2009
-Icon: file:///Applications/Filza.app/AppIcon57x57.png
-Name: Filza File Manager
-
-
-Package: com.wxhbts.afc2d-arm64.rootless
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: saurik, Cannathea
-Installed-Size: 172
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: ./debs/AFC2_rootless.deb
-Size: 15102
-MD5sum: f1df7d63c050d82988509f1bdf55adb5
-SHA1: e1fc3f2261cd84157c54a1d43871b5e88f85d838
-SHA256: f56b25a2a82a9454532c27518bbb4b7411e59d47e8f104b7a145e385ddf2863a
-Section: afc
-Description: 激活 PC端 所有路径访问权限
-Author: saurik, Cannathea
-Name: AFC2 系统文件访问-Rootless
-
-
-Package: com.zxc.simpleremotecontrol-rootless
-Version: 0.1.5
-Architecture: iphoneos-arm64
-Maintainer: zxc
-Installed-Size: 4452
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.zxc.simpleremotecontrol-rootless_0.1.5_iphoneos-arm64.deb
-Size: 1214288
-MD5sum: 6a26495efd27345686bc0f0735612816
-SHA1: aa0193b165813c338b83305aeaa9270e2965016c
-SHA256: d9c87cd5ce3b92e5b1b5c817587b34f7388e1c7e1ccc1659eb19443dd8d04614
-Section: 远程控制
-Description: 一个简单的远程控制手机插
- 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口
-Author: zxc
-Name: iOS远控-rootless
-
-Package: razerofficialb.rootless
-Version: 1.7.6
-Architecture: iphoneos-arm64
-Depends: firmware (>= 8.0)
-Filename: ./debs/雷蛇.deb
-Size: 21303100
-MD5sum: 717b7cf10379dbf1d1ff979f5230c1ae
-SHA1: afd094ad388ebeaee3c4d517034fb56d96f05c82
-SHA256: 5a446e50cdc528370949ac5477adb08574adf72414d4f047d1df1ec27108661b
-Section: [雷蛇RAZER iOS7-16]
-Priority: optional
-Author: RazerOfficial
-Icon: icon.png
-Name: Razer雷蛇176-无根
-
-Package: zorroapp.18.0.1
-Version: 18.0.1
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate, gzip, ldid
-Filename: ./debs/zorroapp_18.deb
-Size: 17391388
-MD5sum: c8914f75e7176fc37888f3c3a7a376a8
-SHA1: e3c4d8c5ee0cd0b95460e23af72b6b0144f68e8b
-SHA256: 5a60856a95d2e0f714cae4493db8146655b1c51c9400352385bccd28e411e92a
-Section: [佐罗ZORRO iOS7-16]
-Author: zorroapp.cn
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: zorro全系備份_18.0.1「无根」
-
-
-Package: com.csmk.installrootless
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,ch.xxtou.hudapp.jb,com.csmk.ast
-Maintainer: w
-Installed-Size: 4
-Filename: ./debs/com.csmk.installrootless_arm64.deb
-Size: 568
-MD5sum: f8180e64413cff02461b1b6335f94e94
-SHA1: 3b4c417d79813c91485af9b80d40269a9a77b37e
-SHA256: f3fe292f49e5085a737a1ad67c6110bbfd99f7de60ea78753410a2b2fa8414a8
-Section: 一键装机
-Description: A blank slate!
-Author: w
-Name: installRootless
-
-Package: ellekit
-Version: 1.1.3
-Architecture: iphoneos-arm64
-Maintainer: Dhinak G <dhinak@dhinak.net>
-Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
-Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
-Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
-Filename: ./debs/ellekit_1.1.3_iphoneos-arm64.deb
-Size: 352628
-MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
-SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
-SHA256: b6fa34a45629f1eba602678d3322ad06d077b52e015223f99a989883652b277b
-Section: Tweak Injection
-Priority: optional
-Description: ElleKit tweak injection libraries and loader
-Author: Evelyn
-Name: ElleKit
-
-
-
-Package: com.wxhbts.lookinloader-rootless
-Version: 1.2-0
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 1692
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/lookinloader-rootless.deb
-Size: 333350
-MD5sum: f8daa172a784d168d6a535dfbaed038f
-SHA1: 48b0533aa8b99863762d2b1a0b243fee1b8a07ec
-SHA256: 5af887ce339431af49db40546744d01ba180dc4a7910f323620ee8acb7e46709
-Section: 常用插件
-Description: LookinServer 动态加载工具
-Author: Netskao
-Depiction: https://apt.wxhbts.com/view/9300
-Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
-Name: LookinLoader-Rootless
-Sileodepiction: https://apt.wxhbts.com/sileo/9300
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 696
+Depends: firmware (>= 14.0)
+Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1-23_iphoneos-arm64.deb
+Size: 175914
+MD5sum: 445daa70d37eccbd9b41d439cba796f5
+SHA1: ce5f1c98f152afa392fe3562e966cc1b5210b73e
+SHA256: d77c1a8eb292f2f0df305c2b38134600a0b43e8a9fbe8654c337ed4a130faa34
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
 
 Package: cn.tinyapps.renet
 Version: 1.2.2
@@ -180,6 +36,117 @@ Icon: file:///var/jb/Applications/Renet.app/AppIcon20x20@3x.png
 Name: 连个锤子-越狱联网一键修复[iOS 10.0~16+]
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.82flex.xcodeanytroll
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
+Filename: ./debs/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm64.deb
+Size: 60372
+MD5sum: 74549694a8e01bd6b8d36ad58f314c83
+SHA1: 6ac46b34bcfaedb348c9b289204fd4e32c499505
+SHA256: 6a582b2dcc96e0272879a6859d7f556dc4bb0db973d40445f5064364a665d128
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica
+Name: XcodeAnyTroll
+
+Package: com.csmk.alerttool
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.csmk.alerttool_1.0_iphoneos-arm64.deb
+Size: 8662
+MD5sum: 5b5a0320ff32695cd49ccc66fee42173
+SHA1: 7a1162f10ce58a72b19f30f3945d0d09e65fd3e1
+SHA256: db20785ab7315e3f2daaef23c7503055d0817aa25f5a592adf59cdec874228c5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: alert_tool
+
+Package: com.csmk.ast
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast_1.7_iphoneos-arm64.deb
+Size: 96978
+MD5sum: 7454d41627b1d2f31f7e79a16098417f
+SHA1: a9272f7a0c019301efd7805b123ec515df2bdea0
+SHA256: fae850ca413cf201aeb6a7dbc26addfc5c952a0ac0ca535a88bbb067549b6f5b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: ast
+
+Package: com.csmk.ast.ascript
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: mk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast.ascript_1.1_iphoneos-arm64.deb
+Size: 5098
+MD5sum: 04cd1c9adea0de0d6f63741fa12686b4
+SHA1: 834152cbfca0256e31fd336a7896c641fd4125a7
+SHA256: f8ab3d20f9a1f4666abf18adc724c5c919280b511f822c2085df9ba8f5ce7206
+Section: Tweaks
+Description: Block the update prompt & location permission in AScript
+Author: mk
+Name: Ascript Hook
+
+Package: com.csmk.installrootless
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: w
+Installed-Size: 4
+Filename: ./debs/com.csmk.installrootless_arm64.deb
+Size: 568
+MD5sum: f8180e64413cff02461b1b6335f94e94
+SHA1: 3b4c417d79813c91485af9b80d40269a9a77b37e
+SHA256: f3fe292f49e5085a737a1ad67c6110bbfd99f7de60ea78753410a2b2fa8414a8
+Description: A blank slate!
+Author: w
+Name: installRootless
+
+Package: com.csmk.mks
+Version: 3.3.0
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 2104
+Depends: mobilesubstrate
+Filename: ./debs/com.csmk.mks_3.3.0_iphoneos-arm64.deb
+Size: 241222
+MD5sum: 9be2dbea08cd3623de397d578bf8fa8d
+SHA1: 12376e92e4d6bfa3f51b7bc86361261f5818ffb0
+SHA256: cbbe26cbb9a7ee897dee6a198d4b64482e3611cb1632bf101b4751d0dbb3e58d
+Section: MKS
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: ww
+Name: mks
+
+Package: com.csmk.tweakgpt
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: ww
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.tweakgpt_0.0.1_iphoneos-arm64.deb
+Size: 3024
+MD5sum: a2ced9697d789706a1a0de2b26a07f57
+SHA1: 59d1ad81f47a14a25469259fdca98c1ce6633eca
+SHA256: 2303d40f7f1927b61b34a4fb54c8b9a432a9a5f0dc59bf29c4d1e063a64035a6
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: ww
+Name: tweak_gpt
+
 Package: com.ghb.ios.gptuk
 Version: 2.13-361
 Architecture: iphoneos-arm64
@@ -195,40 +162,20 @@ Description: An awesome application!
 Author: gpt
 Name: GPT_uk
 
-
-Package: ch.xxtou.hudapp.jb
-Version: 1.12.1-23
+Package: com.nahtedetihw.closeall
+Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 696
-Depends: firmware (>= 14.0)
-Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1-23_iphoneos-arm64.deb
-Size: 175914
-MD5sum: 445daa70d37eccbd9b41d439cba796f5
-SHA1: ce5f1c98f152afa392fe3562e966cc1b5210b73e
-SHA256: d77c1a8eb292f2f0df305c2b38134600a0b43e8a9fbe8654c337ed4a130faa34
+Maintainer: Ethan Whited
+Installed-Size: 208
+Filename: ./debs/com.nahtedetihw.closeall_1.0_iphoneos-arm64.deb
+Size: 21664
+MD5sum: 179dba4685fbf2353152f224b2d1c1e2
+SHA1: 3f0ceea6f80d5cc1aa963acbbc31bfb84b543396
+SHA256: 34dd91591f9b5d26892a65eb9b592760266a389f9393ded91f85ca981e25d2db
 Section: Tweaks
-Description: Troll your speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: TrollSpeed JB
-
-
-Package: com.sergy.immortalizer
-Version: 2.0.0-1
-Architecture: iphoneos-arm64
-Maintainer: sergy
-Installed-Size: 652
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
-Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64.deb
-Size: 42936
-MD5sum: 23af36bc7928407419dd377f55d00820
-SHA1: 7504344c03f72f628fabe4fff58361b0c0aaf725
-SHA256: 36c810efa07533df8e4218d58f97b6fac3211b1d215858891aab1fa623dc5bd4
-Section: Tweaks
-Description: Foreground your apps even if they are in the background!
-Author: sergy
-Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
-Name: Immortalizer
+Description: An awesome MobileSubstrate tweak!
+Author: Ethan Whited
+Name: CloseAll
 
 Package: com.opa334.altlist
 Version: 1.0.11
@@ -268,21 +215,163 @@ Author: opa334
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 Name: CCSupport
 
-Package: com.nahtedetihw.closeall
-Version: 1.0
+Package: com.opa334.trollstorehelper
+Version: 2.0.15
 Architecture: iphoneos-arm64
-Maintainer: Ethan Whited
-Installed-Size: 208
-Filename: ./debs/com.nahtedetihw.closeall_1.0_iphoneos-arm64.deb
-Size: 21664
-MD5sum: 179dba4685fbf2353152f224b2d1c1e2
-SHA1: 3f0ceea6f80d5cc1aa963acbbc31bfb84b543396
-SHA256: 34dd91591f9b5d26892a65eb9b592760266a389f9393ded91f85ca981e25d2db
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Ethan Whited
-Name: CloseAll
+Maintainer: opa334
+Installed-Size: 4400
+Filename: ./debs/com.opa334.trollstorehelper_2.0.15_iphoneos-arm64.deb
+Size: 1919638
+MD5sum: 73e14f01c4d3469e118e63e5f752feba
+SHA1: 9438cf3af05d46de6b60c44d9f899a723a55bf48
+SHA256: 232c5e793b4f7e84ce6e97330475f42f6103a97a1f8c4b01ec6db51c9682ff16
+Section: Applications
+Description: Helper utility to install and manage TrollStore!
+Author: opa334
+Name: TrollStore Helper
 
+Package: com.sergy.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64.deb
+Size: 42936
+MD5sum: 23af36bc7928407419dd377f55d00820
+SHA1: 7504344c03f72f628fabe4fff58361b0c0aaf725
+SHA256: 36c810efa07533df8e4218d58f97b6fac3211b1d215858891aab1fa623dc5bd4
+Section: Tweaks
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Name: Immortalizer
+
+Package: com.tigisoftware.filza
+Version: 4.0.1-3
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 31822
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Filename: ./debs/filza_rootless.deb
+Size: 10216820
+MD5sum: 4812dc73e2ed0a0281b18e876d96edf1
+SHA1: 50f62b44b8a3804743ea9a136bf7542dfc07e43e
+SHA256: 918a39bd1cf0edefe1bb1a0fbb2253ad764a5633649a22c85ae3df7e33689586
+Section: Utilities
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit
+Author: TIGI Software <satashi2009@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Name: Filza File Manager
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.wxhbts.afc2d-arm64.rootless
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: saurik, Cannathea
+Installed-Size: 172
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/AFC2_rootless.deb
+Size: 15102
+MD5sum: f1df7d63c050d82988509f1bdf55adb5
+SHA1: e1fc3f2261cd84157c54a1d43871b5e88f85d838
+SHA256: f56b25a2a82a9454532c27518bbb4b7411e59d47e8f104b7a145e385ddf2863a
+Section: 必备插件
+Description: 激活 PC端 所有路径访问权限
+Author: saurik, Cannathea
+Depiction: https://apt.wxhbts.com/view/9759
+Icon: https://apt.wxhbts.com/icon/%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.png
+Name: AFC2 系统文件访问-Rootless
+Sileodepiction: https://apt.wxhbts.com/sileo/9759
+
+Package: com.wxhbts.lookinloader-rootless
+Version: 1.2-0
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 1692
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/lookinloader-rootless.deb
+Size: 333350
+MD5sum: f8daa172a784d168d6a535dfbaed038f
+SHA1: 48b0533aa8b99863762d2b1a0b243fee1b8a07ec
+SHA256: 5af887ce339431af49db40546744d01ba180dc4a7910f323620ee8acb7e46709
+Section: 常用插件
+Description: LookinServer 动态加载工具
+Author: Netskao
+Depiction: https://apt.wxhbts.com/view/9300
+Icon: https://apt.wxhbts.com/icon/%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.png
+Name: LookinLoader-Rootless
+Sileodepiction: https://apt.wxhbts.com/sileo/9300
+
+Package: com.zxc.simpleremotecontrol-rootless
+Version: 0.1.5
+Architecture: iphoneos-arm64
+Maintainer: zxc
+Installed-Size: 4452
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.zxc.simpleremotecontrol-rootless_0.1.5_iphoneos-arm64.deb
+Size: 1214288
+MD5sum: 6a26495efd27345686bc0f0735612816
+SHA1: aa0193b165813c338b83305aeaa9270e2965016c
+SHA256: d9c87cd5ce3b92e5b1b5c817587b34f7388e1c7e1ccc1659eb19443dd8d04614
+Section: Tweaks
+Description: 一个简单的远程控制手机插件,欢迎微信关注《小白技术社》(仅支持ios13+)
+ 使用方法 内网下 http://手机ip:58586 同时websocket使用58587端口，后续更新也在《小白技术社》通知，禁止某些辣鸡源和任何人重新打包和修改！！！
+ 更新日志：
+   0.1.5：
+    1.增加清晰度
+   0.1.4：
+    1.修复bug
+   0.1.3：
+    1.布局重新修改
+    2.增加远控开关和远控密码
+    3.远控开关未打开情况下打开远控请输入密码，请提前设置好密码，请勿泄露
+Author: zxc
+Name: iOS远控-rootless
+
+Package: ellekit
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_1.1.3_iphoneos-arm64.deb
+Size: 352628
+MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
+SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
+SHA256: b6fa34a45629f1eba602678d3322ad06d077b52e015223f99a989883652b277b
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
+
+Package: razerofficialb.rootless
+Version: 1.7.6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 8.0)
+Filename: ./debs/雷蛇.deb
+Size: 21303100
+MD5sum: 717b7cf10379dbf1d1ff979f5230c1ae
+SHA1: afd094ad388ebeaee3c4d517034fb56d96f05c82
+SHA256: 5a446e50cdc528370949ac5477adb08574adf72414d4f047d1df1ec27108661b
+Section: [雷蛇RAZER iOS7-16]
+Priority: optional
+Author: RazerOfficial
+Icon: icon.png
+Name: Razer雷蛇176-无根
 
 Package: re.frida.server
 Version: 16.5.2
@@ -302,89 +391,17 @@ Description: Observe and reprogram running programs.
 Author: Frida Developers <oleavr@nowsecure.com>
 Name: Frida
 
-
-Package: com.csmk.alerttool
-Version: 1.0
+Package: zorroapp.18.0.1
+Version: 18.0.1
 Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 352
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.csmk.alerttool_1.0_iphoneos-arm64.deb
-Size: 8662
-MD5sum: 5b5a0320ff32695cd49ccc66fee42173
-SHA1: 7a1162f10ce58a72b19f30f3945d0d09e65fd3e1
-SHA256: db20785ab7315e3f2daaef23c7503055d0817aa25f5a592adf59cdec874228c5
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: alert_tool
-
-
-
-Package: com.csmk.tweakgpt
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.tweakgpt_0.0.1_iphoneos-arm64.deb
-Size: 3024
-MD5sum: a2ced9697d789706a1a0de2b26a07f57
-SHA1: 59d1ad81f47a14a25469259fdca98c1ce6633eca
-SHA256: 2303d40f7f1927b61b34a4fb54c8b9a432a9a5f0dc59bf29c4d1e063a64035a6
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: tweak_gpt
-
-Package: com.82flex.xcodeanytroll
-Version: 1.1.3
-Architecture: iphoneos-arm64
-Maintainer: Lessica
-Installed-Size: 468
-Depends: mobilesubstrate (>= 0.9.5000), com.82flex.libsandyxpc (>= 1.1), com.opa334.libsandy (>= 1.1.3), xcode-any-debug
-Filename: ./debs/com.82flex.xcodeanytroll_1.1.3_iphoneos-arm64.deb
-Size: 60372
-MD5sum: 74549694a8e01bd6b8d36ad58f314c83
-SHA1: 6ac46b34bcfaedb348c9b289204fd4e32c499505
-SHA256: 6a582b2dcc96e0272879a6859d7f556dc4bb0db973d40445f5064364a665d128
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Lessica
-Name: XcodeAnyTroll
-
-
-
-Package: com.csmk.mks
-Version: 3.2.8
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 1900
-Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.2.8_iphoneos-arm64.deb
-Size: 228254
-MD5sum: b61af3411b3c39837cb436b91e99883d
-SHA1: 6b51ac1cd2098874016050b54f0d3d1f9df19e94
-SHA256: a0e5b4109074571c77485aec62bdec6730380c741728c36e003d45b253bc74a6
-Section: MKS
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: ww
-Name: mks
-
-Package: com.csmk.ast
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: ww
-Installed-Size: 584
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1.7_iphoneos-arm64.deb
-Size: 96978
-MD5sum: 7454d41627b1d2f31f7e79a16098417f
-SHA1: a9272f7a0c019301efd7805b123ec515df2bdea0
-SHA256: fae850ca413cf201aeb6a7dbc26addfc5c952a0ac0ca535a88bbb067549b6f5b
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
-Name: ast
+Depends: mobilesubstrate, gzip, ldid
+Filename: ./debs/zorroapp_18.deb
+Size: 17391388
+MD5sum: c8914f75e7176fc37888f3c3a7a376a8
+SHA1: e3c4d8c5ee0cd0b95460e23af72b6b0144f68e8b
+SHA256: 5a60856a95d2e0f714cae4493db8146655b1c51c9400352385bccd28e411e92a
+Section: [佐罗ZORRO iOS7-16]
+Author: zorroapp.cn
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
+Name: zorro全系備份_18.0.1「无根」
 

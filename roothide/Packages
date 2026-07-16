@@ -1,19 +1,3 @@
-Package: com.csmk.installroothide
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: w
-Installed-Size: 4
-Pre-Depends: ldid,com.cannathea.afc2d-arm64e,zip, unzip, gzip, unrar, p7zip,roothide.patches.filza,com.csmk.mks,com.tigisoftware.filza64bit,ellekit
-Filename: ./debs/com.csmk.installroothide_arm64e.deb
-Size: 672
-MD5sum: 10b88050e22e8680aaf0917012a1e67c
-SHA1: 0142e5472cd6971f805eaecc45287f64047afb72
-SHA256: 826be7f0c46bc5660291bb9f7916dc5d9e2e3709b0d44b9974940d3b5ccebc03
-Section: 一键装机
-Description: 隐根装机
-Author: w
-Name: install_roothide
- 
 Package: com.csmk.ast
 Version: 1.5
 Architecture: iphoneos-arm64e
@@ -30,17 +14,32 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
 
+Package: com.csmk.installroothide
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: w
+Installed-Size: 4
+Pre-Depends: ldid,com.cannathea.afc2d-arm64e,zip, unzip, gzip, unrar, p7zip,roothide.patches.filza,com.csmk.mks,com.tigisoftware.filza64bit,ellekit
+Filename: ./debs/com.csmk.installroothide_arm64e.deb
+Size: 672
+MD5sum: 10b88050e22e8680aaf0917012a1e67c
+SHA1: 0142e5472cd6971f805eaecc45287f64047afb72
+SHA256: 826be7f0c46bc5660291bb9f7916dc5d9e2e3709b0d44b9974940d3b5ccebc03
+Description: 隐根装机
+Author: w
+Name: install_roothide
+
 Package: com.csmk.mks
-Version: 3.2.7
+Version: 3.3.0
 Architecture: iphoneos-arm64e
 Maintainer: ww
-Installed-Size: 1880
+Installed-Size: 2084
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.2.7_iphoneos-arm64e.deb
-Size: 224004
-MD5sum: e5998a15deb9c5b57617a8714bff116d
-SHA1: 0a8e261e9784b8a9c92ac3af5b4cb0d06b3056c6
-SHA256: 5547c3b1fee133a87bef277c400ac6a8a766db1e8e21e8707b64b5077b793fc3
+Filename: ./debs/com.csmk.mks_3.3.0_iphoneos-arm64e.deb
+Size: 239482
+MD5sum: dbb11244c71c6d5d5f26aa38d8e030b6
+SHA1: 2210d1a984e66d9b5621b6462ed7003bf974dd1e
+SHA256: 0996ba5f98e6d4f1bed7083c6b7dee21e501ef73f87261192dff7af531910b6b
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
