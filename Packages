@@ -120,6 +120,22 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: ast
 
+Package: com.csmk.ast.ascript
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: mk
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.csmk.ast.ascript_1.2_iphoneos-arm.deb
+Size: 5786
+MD5sum: d6557a947c0cdbd0d4c5975019273890
+SHA1: a7e81bc85916449f3d26e800b9278796fbbf96bc
+SHA256: 78c5b19fcf74505106b8eeeb9c01ce0c9089745d83d6d98d305fe6a528009a0b
+Section: Tweaks
+Description: Block the update prompt & location permission in AScript
+Author: mk
+Name: Ascript Hook
+
 Package: com.csmk.ceinstall
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
@@ -163,16 +179,16 @@ Author: w
 Name: ios16Install
 
 Package: com.csmk.mks
-Version: 3.3.0
+Version: 3.3.1
 Architecture: iphoneos-arm
 Maintainer: ww
 Installed-Size: 2104
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.3.0_iphoneos-arm.deb
-Size: 249954
-MD5sum: 0cbbb0f9d979a8e90a8d21a1b57e8b08
-SHA1: ada648a36ae598f80c29113bc9b3674e5c46193f
-SHA256: d5ee96356ef71148a6caed399f6a6898ad5b13e7586d8f26a6dc72ff524c09e6
+Filename: ./debs/com.csmk.mks_3.3.1_iphoneos-arm.deb
+Size: 250162
+MD5sum: fc4baaa63a6e7c10a7fcf6d821ef88f2
+SHA1: ea8a1f65a509e93c144cbd6d0f9b83921c330485
+SHA256: 0d305714d267e2c31f644226b06695e00f39615c485fba8b46ed9880115713b9
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker

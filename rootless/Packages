@@ -85,16 +85,16 @@ Author: ww
 Name: ast
 
 Package: com.csmk.ast.ascript
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: mk
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast.ascript_1.1_iphoneos-arm64.deb
-Size: 5098
-MD5sum: 04cd1c9adea0de0d6f63741fa12686b4
-SHA1: 834152cbfca0256e31fd336a7896c641fd4125a7
-SHA256: f8ab3d20f9a1f4666abf18adc724c5c919280b511f822c2085df9ba8f5ce7206
+Filename: ./debs/com.csmk.ast.ascript_1.2_iphoneos-arm64.deb
+Size: 5138
+MD5sum: ed3f4fc00304e686bddc9c89de976c63
+SHA1: 20401d956be91dbd2a3c677991e055d534d7eaec
+SHA256: 8f59c9e88e965b2afdfad4e07ae5ee820ec81190a99a56ee88a4b36432469345
 Section: Tweaks
 Description: Block the update prompt & location permission in AScript
 Author: mk
@@ -115,16 +115,16 @@ Author: w
 Name: installRootless
 
 Package: com.csmk.mks
-Version: 3.3.0
+Version: 3.3.1
 Architecture: iphoneos-arm64
 Maintainer: ww
 Installed-Size: 2104
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.3.0_iphoneos-arm64.deb
-Size: 241222
-MD5sum: 9be2dbea08cd3623de397d578bf8fa8d
-SHA1: 12376e92e4d6bfa3f51b7bc86361261f5818ffb0
-SHA256: cbbe26cbb9a7ee897dee6a198d4b64482e3611cb1632bf101b4751d0dbb3e58d
+Filename: ./debs/com.csmk.mks_3.3.1_iphoneos-arm64.deb
+Size: 241732
+MD5sum: 19d5401ee0a023bdf47b356c6502dea1
+SHA1: d9959e2e11fbc04e17e3b9a1ec68b09b56b2c4e4
+SHA256: 25e611410847f692eee53ba3f21552cae5a951114f81958aced3abab16170045
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
