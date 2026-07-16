@@ -46,16 +46,16 @@ Author: w
 Name: install_roothide
 
 Package: com.csmk.mks
-Version: 3.3.1
+Version: 3.3.2
 Architecture: iphoneos-arm64e
 Maintainer: ww
 Installed-Size: 2084
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.3.1_iphoneos-arm64e.deb
-Size: 238686
-MD5sum: 6f9e1733d6669f4b731383318bf65ff2
-SHA1: a23d33c4353ec25be19ac198ed38e3920fd20c21
-SHA256: 2077b626eb8a382acc905f10f09eb1660452e442c1ee97039e2cbcf498f36b26
+Filename: ./debs/com.csmk.mks_3.3.2_iphoneos-arm64e.deb
+Size: 239690
+MD5sum: 9a621b2268523680b65a3eec3560fbf4
+SHA1: 9398c367fd9e2b27a0efde27ff63d319d4db368e
+SHA256: d54d156dd61ac6bada79176067f7c5dbf168a1f80f7ca29bfe18ec012f633014
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker

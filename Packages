@@ -179,16 +179,16 @@ Author: w
 Name: ios16Install
 
 Package: com.csmk.mks
-Version: 3.3.1
+Version: 3.3.2
 Architecture: iphoneos-arm
 Maintainer: ww
 Installed-Size: 2104
 Depends: mobilesubstrate
-Filename: ./debs/com.csmk.mks_3.3.1_iphoneos-arm.deb
-Size: 250162
-MD5sum: fc4baaa63a6e7c10a7fcf6d821ef88f2
-SHA1: ea8a1f65a509e93c144cbd6d0f9b83921c330485
-SHA256: 0d305714d267e2c31f644226b06695e00f39615c485fba8b46ed9880115713b9
+Filename: ./debs/com.csmk.mks_3.3.2_iphoneos-arm.deb
+Size: 250502
+MD5sum: 72bd5f82115862f5dc6d229ccc7924ad
+SHA1: f9e5f4d614a9d4998106e77d83241d34c88c5af0
+SHA256: b62852ec4ab329c2af174519bbdbfc80bf65fa480e1b7c0c0f5c48bede11bc7b
 Section: MKS
 Description: An awesome tool of some sort!!
 Tag: role::hacker
