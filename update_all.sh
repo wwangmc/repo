@@ -1,8 +1,8 @@
-sudo chmod -R 777 ./debs
-sudo ./update.sh
+chmod -R 755 ./debs
+./update.sh
 cd rootless
-sudo chmod -R 777 ./debs
-sudo ./update.sh
+chmod -R 755 ./debs
+./update.sh
 cd ../roothide
-sudo chmod -R 777 ./debs
-sudo ./update.sh
+chmod -R 755 ./debs
+./update.sh
