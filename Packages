@@ -121,16 +121,16 @@ Author: ww
 Name: ast
 
 Package: com.csmk.ast.ascript
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: mk
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast.ascript_1.2_iphoneos-arm.deb
-Size: 5786
-MD5sum: d6557a947c0cdbd0d4c5975019273890
-SHA1: a7e81bc85916449f3d26e800b9278796fbbf96bc
-SHA256: 78c5b19fcf74505106b8eeeb9c01ce0c9089745d83d6d98d305fe6a528009a0b
+Filename: ./debs/com.csmk.ast.ascript_1.3_iphoneos-arm.deb
+Size: 6028
+MD5sum: 5e086a16933df2967ddcfec8ab1b7245
+SHA1: 0656bae99552b655578dab3c8bd5afe20660187c
+SHA256: 6729b8b2547d07fdbdd1e295b69119827eefd83c1920a945033fefac43019ba9
 Section: Tweaks
 Description: Block the update prompt & location permission in AScript
 Author: mk
