@@ -105,11 +105,13 @@ Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: w
 Installed-Size: 4
+Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,com.csmk.ast,com.csmk.ast.ascript,com.csmk.tweakgpt,com.sergy.immortalizer,preferenceloader,com.opa334.altlist,com.opa334.ccsupport
 Filename: ./debs/com.csmk.installrootless_arm64.deb
-Size: 568
-MD5sum: f8180e64413cff02461b1b6335f94e94
-SHA1: 3b4c417d79813c91485af9b80d40269a9a77b37e
-SHA256: f3fe292f49e5085a737a1ad67c6110bbfd99f7de60ea78753410a2b2fa8414a8
+Size: 844
+MD5sum: 90f31ae02e34abc909e20c1208edab3a
+SHA1: f1acb334145f6358e47ff618d3174df53b32a060
+SHA256: cbf4a3c70770a0523b95f44b6c02f609edb2bdee4a2d5d96656cb3b700ee7a84
+Section: 一键装机
 Description: A blank slate!
 Author: w
 Name: installRootless

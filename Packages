@@ -105,16 +105,16 @@ Author: ww
 Name: alert_tool
 
 Package: com.csmk.ast
-Version: 1.5
+Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: ww
-Installed-Size: 596
+Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1.5_iphoneos-arm.deb
-Size: 103210
-MD5sum: d405adbff4e194659682a334d7769514
-SHA1: f379ffdca5868268b078923728afb5cf9b6b45b9
-SHA256: a154cfed71f45af7eb64ea3d52fc548e05dfc52339dc88425cc0065edbc23227
+Filename: ./debs/com.csmk.ast_1.7_iphoneos-arm.deb
+Size: 101076
+MD5sum: f6c01eb3ea778b497ebb78c493fe2d31
+SHA1: d2855d69b74e18043f22c072c05aba117544dfd4
+SHA256: 18ea4e20060ba4a9645effb27b89c4594585537396410176462c655a524a2683
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ww
@@ -146,6 +146,7 @@ Size: 562
 MD5sum: aa822a9d9cf08d0933aec3daea1f2069
 SHA1: bc46bfbccc6c58ce0f8f32ecb009704d044d2051
 SHA256: 84b36bc149edba624dde6be4fb0386973703e78e8dfb303067b520c168561152
+Section: 一键装机
 Description: A blank slate!
 Author: w
 Name: ceInstall
@@ -160,6 +161,7 @@ Size: 568
 MD5sum: f1919e7de2a4d13c9bcbea61f386d209
 SHA1: 8ad9ff983fed9bca3092173d4e46e74072cf9e07
 SHA256: a04f0e1af9968f01f37305c2594d3766af43df076e03801cb78b3bacf6abf2ab
+Section: 一键装机
 Description: A blank slate!
 Author: w
 Name: ios15Install
@@ -174,6 +176,7 @@ Size: 562
 MD5sum: f30aaf9d79e6fba9997f49db7e1a63df
 SHA1: cb278dc50f4801e10b7147649019fb0195bada4c
 SHA256: 6056ef62a199b11a836805d9d8a2b1b232b1178d951075ec5a1d33d58ea56721
+Section: 一键装机
 Description: A blank slate!
 Author: w
 Name: ios16Install
@@ -237,6 +240,7 @@ Size: 562
 MD5sum: 0f7057426c0b3b58f781ce2d2bcc7627
 SHA1: 0f6197219c9f2f7436299d1f83285b3b0237c7ce
 SHA256: de7af932613471ccc6b17f79416c45b7422a539af345f7e1609daa628c75a781
+Section: 一键装机
 Description: A blank slate!
 Author: w
 Name: uoInstall

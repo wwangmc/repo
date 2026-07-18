@@ -2,6 +2,21 @@
 # 全量扫描 debs 目录，重新生成 Packages 索引
 dpkg-scanpackages -m ./debs > Packages
 
+# 后处理：给缺少 Section 的包补充默认分类
+awk '
+BEGIN { RS=""; ORS="\n\n" }
+{
+    if ($0 ~ /^Package:/ && $0 !~ /\nSection:/) {
+        if ($0 ~ /Package:.*install/i) {
+            sub(/Description:/, "Section: 一键装机\nDescription:", $0)
+        } else {
+            sub(/Description:/, "Section: Tweaks\nDescription:", $0)
+        }
+    }
+    print
+}
+' Packages > Packages.tmp && mv Packages.tmp Packages
+
 echo "全量更新完成！"
 bzip2 -c9 Packages > Packages.bz2
 xz -c9 Packages > Packages.xz
