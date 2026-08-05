@@ -1,17 +1,20 @@
 Package: com.csmk.ast
-Version: 1.5
+Version: 2.1
 Architecture: iphoneos-arm64e
-Maintainer: ww
-Installed-Size: 580
+Maintainer: mk
+Installed-Size: 1132
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_1.5_iphoneos-arm64e.deb
-Size: 99154
-MD5sum: 926fe1a3f165e72629178de9001e0a24
-SHA1: a7f32fccfcfa38eaacb3a986f239eab61d62aa19
-SHA256: 2e0a86e36f4dcad2044b5bd89f2887e23158c1cbe8da2a6751d545b185e304ce
+Conflicts: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
+Replaces: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
+Provides: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
+Filename: ./debs/com.csmk.ast_2.1_iphoneos-arm64e.deb
+Size: 155140
+MD5sum: aa9e3d43705049708faf71b8c8bb5ceb
+SHA1: ea085087acb85c1734e075a457836fafa85a2ea1
+SHA256: 32bf70708d2d18640b1124e0a4075470281da29d38bf13a7a7bd63e0ee9b425f
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: ww
+Description: Remote control tweak for SpringBoard & AScript permission bypass.
+Author: mk
 Name: ast
 
 Package: com.csmk.ast.ascript
