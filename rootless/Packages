@@ -69,19 +69,16 @@ Author: ww
 Name: alert_tool
 
 Package: com.csmk.ast
-Version: 2.6
+Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: mk
 Installed-Size: 1472
 Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
-Replaces: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
-Provides: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
-Filename: ./debs/com.csmk.ast_2.6_iphoneos-arm64.deb
-Size: 169828
-MD5sum: 3a82e0dc8ea06d570804113b3652bf73
-SHA1: 648f82a47141278c704d0a99c98192ca5150f168
-SHA256: a626fddcd1507ff442deec3cfb7b2025cdd4e7e180317160c310f40119158a37
+Filename: ./debs/com.csmk.ast_2.7_iphoneos-arm64.deb
+Size: 169046
+MD5sum: 5c903b443ea7eebeee3577b4295386ba
+SHA1: f89bc020415deea62a2eec5aa8efc0c55bedfe25
+SHA256: e4c9ad805bbe9730551378693c2e2197c0208947c99f4e0617d305c0572cb6b6
 Section: Tweaks
 Description: Remote control tweak for SpringBoard & AScript permission bypass.
 Author: mk
