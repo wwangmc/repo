@@ -69,48 +69,35 @@ Author: ww
 Name: alert_tool
 
 Package: com.csmk.ast
-Version: 2.7
+Version: 2.8
 Architecture: iphoneos-arm64
 Maintainer: mk
-Installed-Size: 1472
+Installed-Size: 1616
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast_2.7_iphoneos-arm64.deb
-Size: 169046
-MD5sum: 5c903b443ea7eebeee3577b4295386ba
-SHA1: f89bc020415deea62a2eec5aa8efc0c55bedfe25
-SHA256: e4c9ad805bbe9730551378693c2e2197c0208947c99f4e0617d305c0572cb6b6
+Conflicts: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
+Replaces: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
+Provides: com.csmk.ast.ascript, ch.xxtou.hudapp.jb
+Filename: ./debs/com.csmk.ast_2.8_iphoneos-arm64.deb
+Size: 170656
+MD5sum: e9e922b9de1e943cfce7c8ae62b04db8
+SHA1: 48051d3667fed3085f4b24a02ea2a0974dbe9bb3
+SHA256: 1427658c8b8c160d469aa649d6112d6733349bcaa3f1fcbdf64c3806dad61c17
 Section: Tweaks
 Description: Remote control tweak for SpringBoard & AScript permission bypass.
 Author: mk
 Name: ast
-
-Package: com.csmk.ast.ascript
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: mk
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.csmk.ast.ascript_1.3_iphoneos-arm64.deb
-Size: 5296
-MD5sum: 9e974750f5ef87043f655f21eb057aee
-SHA1: 181af28da203f93917588460bc33a5d5ac70b760
-SHA256: 0c7e5db9ae337beeb3e9dac17e3a0705c460a09cf65353d00f182c2e7d511d29
-Section: Tweaks
-Description: Block the update prompt & location permission in AScript
-Author: mk
-Name: Ascript Hook
 
 Package: com.csmk.installrootless
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: w
 Installed-Size: 4
-Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,com.csmk.ast,com.csmk.ast.ascript,com.csmk.tweakgpt,com.sergy.immortalizer,preferenceloader,com.opa334.altlist,com.opa334.ccsupport
+Pre-Depends: ldid,com.wxhbts.afc2d-arm64.rootless,zip, unzip, gzip, unrar, p7zip,com.csmk.mks,com.tigisoftware.filza,ellekit,com.csmk.ast,com.csmk.tweakgpt,com.sergy.immortalizer,preferenceloader,com.opa334.altlist,com.opa334.ccsupport
 Filename: ./debs/com.csmk.installrootless_arm64.deb
 Size: 844
-MD5sum: 90f31ae02e34abc909e20c1208edab3a
-SHA1: f1acb334145f6358e47ff618d3174df53b32a060
-SHA256: cbf4a3c70770a0523b95f44b6c02f609edb2bdee4a2d5d96656cb3b700ee7a84
+MD5sum: 9c0c7917f51980849650f088a2157a16
+SHA1: d6a6df46d5df506cd6c97cb240f292441799d30c
+SHA256: b2ed010bdb3b64b9bb4d307366d2e825c9475664078930ed40687733d7ea1b29
 Section: 一键装机
 Description: A blank slate!
 Author: w
