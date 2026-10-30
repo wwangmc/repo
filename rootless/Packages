@@ -154,6 +154,24 @@ SHA256: 66122b12ce8ea8088d84c7905fd56063d1374bc8210aba4b469c9f4d49a98ef6
 Homepage: https://github.com/wwangmc/QuietPhone
 Depiction: https://wwangmc.github.io/repo/rootless/#quietphone
 
+Package: com.example.quietphone
+Name: QuietPhone
+Description: Software ringer and media silence for Dopamine
+Maintainer: Developer
+Author: Developer
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Installed-Size: 348
+Filename: ./debs/com.example.quietphone_0.1.1_iphoneos-arm64.deb
+Size: 12136
+MD5sum: dc10849ca1d298ad4e2cb8433541d891
+SHA1: b3c74fc30b5982f83d9f6610dca7b7e9b2bddb6f
+SHA256: 82366fa07071a78334709bc655e633e25ec3c5b600c02bf36335daa08a18db6e
+Homepage: https://github.com/wwangmc/QuietPhone
+Depiction: https://wwangmc.github.io/repo/rootless/#quietphone
+
 Package: com.ghb.ios.gptuk
 Version: 2.13-361
 Architecture: iphoneos-arm64
