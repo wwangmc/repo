@@ -172,6 +172,24 @@ SHA256: 82366fa07071a78334709bc655e633e25ec3c5b600c02bf36335daa08a18db6e
 Homepage: https://github.com/wwangmc/QuietPhone
 Depiction: https://wwangmc.github.io/repo/rootless/#quietphone
 
+Package: com.example.quietphone
+Name: QuietPhone
+Description: Software ringer and media silence for jailbroken iOS
+Maintainer: Developer
+Author: Developer
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.1.2
+Installed-Size: 348
+Filename: ./debs/com.example.quietphone_0.1.2_iphoneos-arm64.deb
+Size: 12158
+MD5sum: 6e0abbd077635d0b9969b56f1589ae58
+SHA1: 763f8a74cc4c23e7f71d0f3ef36e69a5a660f065
+SHA256: 7b6a51ccbe2a3dadc47f5fa27e42c5af511fef1e303d02ba16ac8bc59ea2b0c2
+Homepage: https://github.com/wwangmc/QuietPhone
+Depiction: https://wwangmc.github.io/repo/rootless/#quietphone
+
 Package: com.ghb.ios.gptuk
 Version: 2.13-361
 Architecture: iphoneos-arm64

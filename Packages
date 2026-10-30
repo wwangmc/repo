@@ -286,6 +286,24 @@ Description: Substrate substitute for code substitution
 Author: comex <comexk+da@gmail.com>
 Name: Substitute
 
+Package: com.example.quietphone
+Name: QuietPhone
+Description: Software ringer and media silence for jailbroken iOS
+Maintainer: Developer
+Author: Developer
+Section: Tweaks
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Version: 0.1.2
+Installed-Size: 348
+Filename: ./debs/com.example.quietphone_0.1.2_iphoneos-arm.deb
+Size: 12034
+MD5sum: cd400dd85767c4527d5c8a8042dc679d
+SHA1: 64735fbe81eaccb8b23b0eb0452891c8b4291f5d
+SHA256: 2a7223a77096b8b152eacbd938727869194f21dc9a8e38af732ebef76da252bc
+Homepage: https://github.com/wwangmc/QuietPhone
+Depiction: https://wwangmc.github.io/repo/#quietphone
+
 Package: com.ghb.ios.gpt
 Version: 2.13-201
 Architecture: iphoneos-arm
