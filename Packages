@@ -154,6 +154,22 @@ Description: A blank slate!
 Author: w
 Name: ceInstall
 
+Package: com.csmk.gptuk-injection-fix
+Name: GPTuk Injection Fix
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: GPTuk Developer
+Author: GPTuk Developer
+Section: Development
+Depends: com.ex.substitute (>= 2.3.1), com.csmk.tweakgpt (>= 0.0.2)
+Description: App-scoped post-launch injection for rootful GPTuk.
+ Preserves GPT's setuid permissions and loads only the configured tweak.
+Filename: ./debs/com.csmk.gptuk-injection-fix_0.1.1_iphoneos-arm.deb
+Size: 2894
+MD5sum: 6b6ddbd1f875d52250f68919c227ab69
+SHA1: 389abcd6daab56cc1e80964ddb7a440702787ccb
+SHA256: c81832d408e522ccebe8fd8f40f772839e7a0294de4a4f1db11ee315949c7eb1
+
 Package: com.csmk.ios15install
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm64

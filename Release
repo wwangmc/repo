@@ -1,10 +1,33 @@
 Architectures: iphoneos-arm iphoneos-arm64
 Codename: iphoneos-arm64
 Components: main
-Date: Wed, 10 May 2023 10:42:00 +0000
+Date: Fri, 30 Oct 2026 01:09:16 +0000
 Description: wangmc
 Label: wangmc
 Origin: wangmc
 Suite: stable
 Version: 1.0
-
+MD5Sum:
+ 4401cea3c7a4f7c9452f4a3573fc9e59 26377 Packages
+ a9982870c914b341907dfae0f2fe32eb 8715 Packages.bz2
+ b9ee7ee58097f1900e08e089761c8286 9186 Packages.gz
+ 8e45a347aab08f0fb9892c904f33e24a 12172 Packages.lz4
+ ae5b69e8bb998dff1c908464f5ff78fb 8346 Packages.lzma
+ f4ff81199dd941d0e2a004444863a5b9 8356 Packages.xz
+ 5b6116dda4ebbc1271e2d66816ef3a2f 8741 Packages.zst
+SHA1:
+ 51a4024ae2162ff06c86fba4a171096e425d7f52 26377 Packages
+ 0151fe67e21bbe988b5e0cf047b2604beff51936 8715 Packages.bz2
+ 0c9fdd9f7ec81e6d41bbc07fe3a1b3a71df5c5be 9186 Packages.gz
+ bd6f948fd31900783c86e2ba13bad0e5dd33b92b 12172 Packages.lz4
+ b9e62443a47b989761c7dd2eac1edd6d050950b4 8346 Packages.lzma
+ 16f81d738c81c062aa9fa5346974a516e25f1dee 8356 Packages.xz
+ 485fb6187d441497eb19166d78fce09e11067e50 8741 Packages.zst
+SHA256:
+ 94a4686c5f8d6ea2ff0e3ccedd9efb16db0d9cd9f68d469b0562420ddca2c06e 26377 Packages
+ dad470a7fefc3aacd38d4a73bfe3b2745300d4fe70863e19345d49240e61be69 8715 Packages.bz2
+ 3413162ffd1d6783c6cdeffb47e36cb71245f55b1af04b3aefc393ee1442cce3 9186 Packages.gz
+ 72d973026040a158b580c4cc3c2842029fbed66b4c2cea7d3ea778378e305f04 12172 Packages.lz4
+ e5563972745b16e9b9b74837b2986052af630273058e4976664c5bcfe6df7ebb 8346 Packages.lzma
+ 95dd5638318498de08e68b06e9d7c881208511be9669287dee1b308f5244a06d 8356 Packages.xz
+ 6c91b8345f23f63cb436c873381e88c84211038148be75c0cd707a1474128ba8 8741 Packages.zst
