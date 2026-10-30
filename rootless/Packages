@@ -136,6 +136,24 @@ Description: An awesome MobileSubstrate tweak!
 Author: ww
 Name: tweak_gpt
 
+Package: com.example.quietphone
+Name: QuietPhone
+Description: Software ringer and media silence for Dopamine
+Maintainer: Developer
+Author: Developer
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Installed-Size: 348
+Filename: ./debs/com.example.quietphone_0.1.0_iphoneos-arm64.deb
+Size: 12086
+MD5sum: 1e5b4f0d336af8e707354d00d1b51423
+SHA1: 7c60dfaa9df506563bd01415fc6475ceec4b8368
+SHA256: 66122b12ce8ea8088d84c7905fd56063d1374bc8210aba4b469c9f4d49a98ef6
+Homepage: https://github.com/wwangmc/QuietPhone
+Depiction: https://wwangmc.github.io/repo/rootless/#quietphone
+
 Package: com.ghb.ios.gptuk
 Version: 2.13-361
 Architecture: iphoneos-arm64
