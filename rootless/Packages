@@ -457,11 +457,11 @@ Section: Tweaks
 Depends: mobilesubstrate
 Architecture: iphoneos-arm64
 Version: 0.1.0
-Installed-Size: 172
+Installed-Size: 340
 Filename: ./debs/com.example.gptfiltersync_0.1.0_iphoneos-arm64.deb
-Size: 9284
-MD5sum: 3050039c1bfe1f01831cacd245116a15
-SHA1: fec32ee015150e8827002dd7b0db3add6fce04a1
-SHA256: 39f3b284af0c77efa9f1dede9e8ef07191b1b12fd8db8fb8d2e04f9bbc8d637e
+Size: 13732
+MD5sum: f2850acff4fb7d1c51314d05b630de6b
+SHA1: 0b9db8e0c923fec6a6be35979545b29be90caf6b
+SHA256: 57d91e64cae5166589e6766b7aae793a78c8c493f2e7b5cb1714a8641f914f50
 Depiction: https://wwangmc.github.io/repo/rootless/#gptfiltersync
 
