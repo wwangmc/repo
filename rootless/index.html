@@ -39,6 +39,13 @@
 		<a href="debs/com.example.quietphone_0.1.2_iphoneos-arm64.deb">下载无根安装包</a>
 		<a href="https://github.com/wwangmc/QuietPhone">开源代码与说明（MIT）</a>
 	</div>
+	<div class="well" id="gptfiltersync">
+		<h2>GptFilterSync 0.1.0 · GPT 勾选应用同步（无根）</h2>
+		<p>在 GPT App（com.ghb.ios.GPT）里勾选生效的应用后，插件会自动把这份列表同步写进 gpttweak.plist 的 Filter → Bundles，不用再手动改 plist。</p>
+		<p>原理是 hook GPT App 的 <code>+[KMPublicFunc toUpdateTweakPlist]</code>，在 App 每次更新选项时读取 GPTData 中的 appids 并回写过滤器配置。安装后重启 GPT App 即可生效。</p>
+		<p>Dopamine Rootless，路径为 /var/jb。依赖 mobilesubstrate（ElleKit 亦可）。排查问题可看 /var/mobile/Library/Preferences/GptFilterSync.log。</p>
+		<a href="debs/com.example.gptfiltersync_0.1.0_iphoneos-arm64.deb">下载无根安装包</a>
+	</div>
 </div>
 <div style="text-align:center">
 

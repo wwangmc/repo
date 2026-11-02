@@ -448,3 +448,20 @@ Author: zorroapp.cn
 Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
 Name: zorro全系備份_18.0.1「无根」
 
+Package: com.example.gptfiltersync
+Name: GptFilterSync
+Description: Sync GPT checked-app list into gpttweak.plist filter
+Maintainer: Developer
+Author: Developer
+Section: Tweaks
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Installed-Size: 172
+Filename: ./debs/com.example.gptfiltersync_0.1.0_iphoneos-arm64.deb
+Size: 9284
+MD5sum: 3050039c1bfe1f01831cacd245116a15
+SHA1: fec32ee015150e8827002dd7b0db3add6fce04a1
+SHA256: 39f3b284af0c77efa9f1dede9e8ef07191b1b12fd8db8fb8d2e04f9bbc8d637e
+Depiction: https://wwangmc.github.io/repo/rootless/#gptfiltersync
+
